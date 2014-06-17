@@ -11,8 +11,8 @@ save_as: index.html
 <div class="container">
     <div class="row">
         <div class="col-lg-12 section">
-            <h1 class="section-heading">ROMY Rotational Motions</h1>
-            <p class="lead section-lead">A new observable for Earth Sciences, Structural Engineering and Cosmology</p>
+            <h1 class="section-heading">Rotational Motions</h1>
+            <p class="lead section-lead">A new observable for Seismology</p>
             <p class="section-paragraph">
             When the ground shakes from earthquakes, the oceans, or the
             atmosphere, it not only translates (up-down, sideways), but
