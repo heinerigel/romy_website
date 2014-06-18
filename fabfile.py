@@ -38,5 +38,5 @@ def publish():
         exclude=".DS_Store",
         local_dir=DEPLOY_PATH.rstrip('/') + '/',
         delete=True,
-        extra_opts="--no-perms --omit-dir-times"
+        extra_opts="--omit-dir-times --chmod=Dug=rwx,Do=rx,Fug=rw,Fo=r"
     )
