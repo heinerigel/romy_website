@@ -27,7 +27,7 @@ save_as: index.html
             innovative instrumentation strategy that would allow solving
             this outstanding problem. If the strategy is successful the new
             observable is expected to have an impact in a wide range of
-            fields making it a classical high-risk high-gain situation. We
+            fields. We
             aim at the establishment of the first-of-its-kind six-component
             seismic observatory based on ring-laser technology, the field
             deployment of portable fibre-optic based rotation sensors,  the
