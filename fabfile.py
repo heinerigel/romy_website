@@ -9,7 +9,7 @@ env.deploy_path = DEPLOY_PATH
 
 # Remote server configuration
 production = 'venus'
-dest_path = '/var/www/geophysics/www/ROMY'
+dest_path = '/var/www/geophysics/www/ROMY/'
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
@@ -17,14 +17,14 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
-    local('pelican content -s pelicanconf.py -o output')
+    local('pelican content -d -s pelicanconf.py -o output')
 
 def rebuild():
     clean()
     build()
 
 def regenerate():
-    local('pelican content -r -s pelicanconf.py -o output')
+    local('pelican content -d -r -s pelicanconf.py -o output')
 
 def serve():
     build()
@@ -32,11 +32,12 @@ def serve():
 
 @hosts(production)
 def publish():
-    local('pelican content -s pelicanconf.py -o output')
+    local('pelican content -d -s pelicanconf.py -o output')
+    local('rm -rf output/theme/.svn')
     project.rsync_project(
         remote_dir=dest_path,
         exclude=".DS_Store",
-        local_dir=DEPLOY_PATH.rstrip('/') + '/',
+        local_dir=DEPLOY_PATH.rstrip('/') + '/*',
         delete=True,
         extra_opts="--omit-dir-times --chmod=Dug=rwx,Do=rx,Fug=rw,Fo=r"
     )
