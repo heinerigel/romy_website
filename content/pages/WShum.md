@@ -15,7 +15,7 @@ During the workshop, two main questions will be addressed:
 
 #### Where does the hum come from?
 - What is the location of generation areas of vertical hum?
-- What are possible generation mechanism of vertical hum?
+- What are possible generation mechanisms of vertical hum?
 - Are they the same or different for horizontal hum? For rotations?
 
 #### How can we best observe the hum?
@@ -38,7 +38,7 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 <p>9:50 – 10:10 presentation tbd</p>
 <p>10:10 – 10:30 coffee break</p>
 
-10:30 – 10:50 title tbd by Prof. Dr. Rudi Widmer-Schnidrig
+10:30 – 10:50 presentation tbd
 
 10:50 – 11:00  “ROMY” by Prof. Dr. Heiner Igel 
 
@@ -60,7 +60,7 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 
 15:15 – 15:30 presentation tbd
 
-15:30 – 16:30 discussion
+15:30 – 16:30 discussion moderated by Dr. Rudi Widmer-Schnidrig
 
 16:30 reception
 
