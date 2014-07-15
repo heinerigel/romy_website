@@ -36,45 +36,32 @@ During the workshop, two main questions will be addressed:
 <br></br>
 
 ### Preliminary Program
+---
 #### Thursday, September 11
 We will welcome you on Thursday evening from 18:00 with an icebreaker (Location to be announced.). The scientific program starts on Friday.
 
+<br>
 #### Friday, September 12
-<i>Morning: “Where does the hum come from?”</i>
 
-9:00 – 9:30  introductory talk: “The origin of the hum” by Prof. Dr. Toshiro Tanimoto
+The program on Friday runs from 9:00 to 16:30, followed by a reception and dinner in town. 
 
-<p>9:30 – 9:50  “How ocean waves rock the Earth: two mechanisms explain seismic noise with periods 3 to 300 s” by Dr. Fabrice Ardhuin</p> 
-<p>9:50 – 10:10 presentation tbd</p>
-<p>10:10 – 10:30 coffee break</p>
+- __Morning: “Where does the hum come from?”__
 
-10:30 – 10:50 presentation tbd
+	Introductory talk: “The origin of the hum” by Prof. Dr. Toshiro Tanimoto
 
-10:50 – 11:00  “ROMY” by Prof. Dr. Heiner Igel 
+	“How ocean waves rock the Earth: two mechanisms explain seismic noise with periods 3 to 300 s” by Dr. Fabrice Ardhuin
 
-11:00 – 12:00 discussion
+	*Discussion* moderated by Prof. Dr. Eleonore Stutzmann
 
-12:00 – 13:30 lunch
+- __Afternoon: “How can we best observe the hum?”__
 
-<i>Afternoon: “How can we best observe the hum?”</i>
+	“Observation of the horizontal hum” by Dr. R. Widmer-Schnidrig
 
-13:30 – 14:00 introductory talk: “Observation of the horizontal hum” by Dr. R. Widmer-Schnidrig
+	“Towards global Hum detection with Ring laser gyroscopes” by Maria Fernanda Nader-Nieto
 
-14:00 – 14:20 “Towards global Hum detection with Ring laser gyroscopes” by Maria Fernanda Nader-Nieto
+	“Stabilizing long period Ring laser observations in geodesy and geophysics” by Dr. Andre Gebauer
 
-14:20 – presentation tbd
-
-14:40 – 15:00 coffee break
-
-15:00 – 15:15 "Long period seismology with the Wettzell Ring Laser" by Dr. Andre Gebauer
-
-15:15 – 15:30 presentation tbd
-
-15:30 – 16:30 discussion moderated by Dr. Rudi Widmer-Schnidrig
-
-16:30 reception
-
-19:00 dinner in town
+	*Discussion* moderated by Dr. Rudi Widmer-Schnidrig
 
 
 <br></br>
@@ -90,7 +77,7 @@ The workshop will take place in the building of the [Center for Advanced Studies
 ### Registration
 Pre-registration starts now, and closes on <b>September 1st, 2014</b>. Please [click here to register](https://docs.google.com/forms/d/1YL1edkyFC0_O3IEkApugAZUDIm5AjJgzDv8opZ6IYEw/viewform?usp=send_form). The number of participants is limited to 30, first come first serve.
 
-Please note that we might have to ask a small (<100eur) registration fee. More information about that will follow soon.
+Please note that we might have to ask a small registration fee. More information about that will follow soon. Students (both undergraduate and graduate level) can participate for free. 
 
 <br></br>
 
