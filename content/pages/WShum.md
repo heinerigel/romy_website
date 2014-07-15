@@ -7,7 +7,7 @@ The Earth continuously hums a tune, at very low frequencies, audible only to sen
 
 The aim of the workshop is to discuss recent developments in the observation and explanation of the Earth's Hum. An international group of researchers will be brought together to provide insights on possible excitation mechanisms as well as improved observation strategies. 
 
-Prof. T. Tanimoto is one of the leading experts on the topic of the Earth's Hum. In the context of his visit as a CAS visiting fellow (sept-nov 2014), we will organize a workshop centered around questions he will pursue during his research stay at the LMU. 
+Prof. T. Tanimoto is one of the leading experts on the topic of the Earth's Hum. As he will be visiting the Seismology department at LMU in September and October, we decided to organize a workshop for the occasion.
 
 During the workshop, two main questions will be addressed: 
 
@@ -50,13 +50,13 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 
 13:30 – 14:00 introductory talk: “Observation of the horizontal hum” by Dr. R. Widmer-Schnidrig
 
-14:00 – 14:20 “Normal mode coupling observations with a rotation sensor” by Maria Fernanda Nader-Nieto
+14:00 – 14:20 “Towards global Hum detection with Ring laser gyroscopes” by Maria Fernanda Nader-Nieto
 
 14:20 – presentation tbd
 
 14:40 – 15:00 coffee break
 
-15:00 – 15:15 title tbd by Prof. Dr. Ulrich Schreiber
+15:00 – 15:15 "Long period seismology with the Wettzell Ring Laser" by Dr. Andre Gebauer
 
 15:15 – 15:30 presentation tbd
 
