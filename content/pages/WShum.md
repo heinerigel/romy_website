@@ -3,11 +3,21 @@ Slug: WShum
 Authors: Heiner Igel
 
 
-The Earth continuously hums a tune, at very low frequencies, audible only to sensitive geophysical instruments. The origin of this background seismic noise has been accredited to oceanic and atmospheric effects, although the exact mechanism is still not understood. Moreover, recent observations have shown that the Earth does not only vibrate in the vertical direction, but also exhibits a twisting motion, the so-called toroidal modes. The development and installation of a novel rotational sensor, currently underway at the LMU, will allow us to more closely study the toroidal modes which contribute to the Earth's Hum. 
+The Earth continuously hums a tune, at very low frequencies, audible only to 
+sensitive geophysical instruments. The origin of this background seismic noise has 
+been accredited to oceanic and atmospheric effects, although the exact mechanism is still 
+not understood. Moreover, recent observations have shown that the Earth does not only vibrate 
+in the vertical direction, but also exhibits a twisting motion, the so-called toroidal modes. 
+The development and installation of a novel rotational sensor, currently underway at the LMU, 
+will allow us to more closely study the toroidal modes which contribute to the Earth's Hum. 
 
-The aim of the workshop is to discuss recent developments in the observation and explanation of the Earth's Hum. An international group of researchers will be brought together to provide insights on possible excitation mechanisms as well as improved observation strategies. 
+The aim of the workshop is to discuss recent developments in the observation and explanation 
+of the Earth's Hum. An international group of researchers will be brought together to provide 
+insights on possible excitation mechanisms as well as improved observation strategies. 
 
-Prof. T. Tanimoto is one of the leading experts on the topic of the Earth's Hum. As he will be visiting the Seismology department at LMU in September and October, we decided to organize a workshop for the occasion.
+Prof. T. Tanimoto is one of the leading experts on the topic of the Earth's Hum and a keynote speaker. 
+He will be visiting the Seismology department at LMU in September and October supported by a CAS fellowship.  
+
 
 During the workshop, two main questions will be addressed: 
 

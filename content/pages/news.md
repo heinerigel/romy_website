@@ -17,6 +17,6 @@ information can be found [here](WShum.html)).
 For the first time a rotation sensor was attached to an ocean bottom instrument and lowered to the shallow sea floor in the North Sea near German island of Helgoland. In cooperation with the Alfred-Wegener Institution (AWI) in Bermerhaven we investigate options to determine the orientation of the sensors at the sea floor and the characteristics of noise on the seafloor. The data are now being analyzed. 
  
 
-### <small>2013/08/13</small> [Heiner Igel wins ERC Advanced Grant (Press Release)](https://www.en.uni-muenchen.de/news/newsarchiv/2013/f-m-58-13.html)
+### <small>2013/08/13</small> [ERC Advanced Grant (LMU Press Release)](https://www.en.uni-muenchen.de/news/newsarchiv/2013/f-m-58-13.html)
 
 LMU geophysicist Professor Heiner Igel has been awarded an Advanced Grant worth 2.5 million euros by the European Research Council (ERC). Igel will use the grant to develop a novel type of rotation sensor for the analysis of seismic waves. ERC Advanced Grants honor European researchers who have already made their mark in their respective fields, and are intended to enable them to undertake innovative and high-risk projects. [(full article)](https://www.en.uni-muenchen.de/news/newsarchiv/2013/f-m-58-13.html)
