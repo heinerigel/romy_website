@@ -77,8 +77,7 @@ The workshop will take place in the building of the [Center for Advanced Studies
 ### Registration
 Pre-registration starts now, and closes on <b>September 1st, 2014</b>. Please [click here to register](https://docs.google.com/forms/d/1YL1edkyFC0_O3IEkApugAZUDIm5AjJgzDv8opZ6IYEw/viewform?usp=send_form). The number of participants is limited to 30, first come first serve.
 
-Please note that we might have to ask a small registration fee. More information about that will follow soon. Students (both undergraduate and graduate level) can participate for free. 
-
+There will be no registration fee. However, we kindly ask the participants to cover the dinner on Friday on their own.
 <br></br>
 
 
