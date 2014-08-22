@@ -43,28 +43,38 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 <br>
 #### Friday, September 12
 
-The program on Friday runs from 9:00 to 16:30, followed by a reception and dinner in town. 
-
-- __Morning: “Where does the hum come from?”__
-
-	Introductory talk: “The origin of the hum” by Prof. Dr. Toshiro Tanimoto
-
-	“How ocean waves rock the Earth: two mechanisms explain seismic noise with periods 3 to 300 s” by Dr. Fabrice Ardhuin
-
-	*Discussion* moderated by Prof. Dr. Eleonore Stutzmann
-
-- __Afternoon: “How can we best observe the hum?”__
-
-	“Observation of the horizontal hum” by Dr. R. Widmer-Schnidrig
-
-	“Towards global Hum detection with Ring laser gyroscopes” by Maria Fernanda Nader-Nieto
-
-	“Stabilizing long period Ring laser observations in geodesy and geophysics” by Dr. Andre Gebauer
-
-	*Discussion* moderated by Dr. Rudi Widmer-Schnidrig
 
 
-<br></br>
+<span style="color:gray">9:00 – 9:45</span>  Prof. Dr. Toshiro Tanimoto: The origin of the hum
+
+<span style="color:gray">9:45 – 10:30</span> Dr. Fabrice Ardhuin: How ocean waves rock the Earth: two mechanisms explain seismic noise with periods 3 to 300 s
+
+<span style="color:gray">10:30 – 11:00</span> Coffee break
+
+<span style="color:gray">11:00 – 11:20</span> Dr. Dieter Kurrle: Observation of the horizontal Hum
+
+<span style="color:gray">11:20 – 11:40</span> Rolf H&auml;fner: Numerical simulation of hum excitation in an ocean with bathymetry
+
+<span style="color:gray">11:40 – 12:00</span> Prof. Dr. Rudolf Widmer-Schnidrig: The 1991 Mount Pinatubo eruption - and why the atmosphere contributes to the excitation of the Hum.
+
+<span style="color:gray">12:00 – 12:20</span> Prof. Dr. Walter Z&uuml;rn: Deterministic atmospheric effects in the Hum-band.
+
+<span style="color:gray">12:30 – 14:00</span> Lunch
+
+<span style="color:gray">14:00 – 14:30</span> Prof. Dr. Heiner Igel: The ROMY project
+
+<span style="color:gray">14:30 – 15:00</span> Maria Fernanda Nader-Nieto: Normal mode coupling observations with a rotation sensor
+
+<span style="color:gray">15:00 – 15:30</span> Dr. Andr&eacute; Gebauer: High bandwidth ring laser observations in geodesy and geophysics
+
+<span style="color:gray">15:30 – 17:00</span> Coffee break with informal poster session
+
+<span style="color:gray">17:00</span> Discussion moderated by Prof. Dr. Elenore Stutzmann
+
+<span style="color:gray">19:00</span> Dinner in town 
+
+
+---
 
 ### Location
 
@@ -85,7 +95,10 @@ There will be no registration fee. However, we kindly ask the participants to co
 
 For any questions concerning the workshop, please <a href="mailto:hadzii@geophysik.uni-muenchen.de">contact us</a>.
 
-
+<span style="color:gray"><b>Organised by:</b> </br>
+Prof. Dr. Heiner Igel</br>
+Dr. C&eacute;line Hadziioannou</br>
+Dr. Stefanie Donner  </span>
   
 
 
