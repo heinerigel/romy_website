@@ -43,13 +43,13 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 <br>
 #### Friday, September 12
 
-
+<span style="color:gray">8:55 - 9:00</span>  Welcome by Prof. Dr. Heiner Igel
 
 <span style="color:gray">9:00 – 9:45</span>  Prof. Dr. Toshiro Tanimoto: The origin of the hum
 
 <span style="color:gray">9:45 – 10:30</span> Dr. Fabrice Ardhuin: How ocean waves rock the Earth: two mechanisms explain seismic noise with periods 3 to 300 s
 
-<span style="color:gray">10:30 – 11:00</span> Coffee break
+<span style="color:gray; line-height: 50px;">10:30 – 11:00</span> Coffee break
 
 <span style="color:gray">11:00 – 11:20</span> Dr. Dieter Kurrle: Observation of the horizontal Hum
 
@@ -59,15 +59,16 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 
 <span style="color:gray">12:00 – 12:20</span> Prof. Dr. Walter Z&uuml;rn: Deterministic atmospheric effects in the Hum-band.
 
-<span style="color:gray">12:30 – 14:00</span> Lunch
+<span style="color:gray; line-height: 50px;">12:30 – 14:00</span> Lunch
 
-<span style="color:gray">14:00 – 14:30</span> Prof. Dr. Heiner Igel: The ROMY project
+
+<span style="color:gray">14:00 – 14:30</span> Dr. Andr&eacute; Gebauer: High bandwidth ring laser observations in geodesy and geophysics 
 
 <span style="color:gray">14:30 – 15:00</span> Maria Fernanda Nader-Nieto: Normal mode coupling observations with a rotation sensor
 
-<span style="color:gray">15:00 – 15:30</span> Dr. Andr&eacute; Gebauer: High bandwidth ring laser observations in geodesy and geophysics
+<span style="color:gray">15:00 – 15:30</span> Prof. Dr. Heiner Igel: The ROMY project - Towards stable broadband observations of rotational motions 
 
-<span style="color:gray">15:30 – 17:00</span> Coffee break with informal poster session
+<span style="color:gray;  line-height: 50px;">15:30 – 17:00</span> Coffee break with informal poster session
 
 <span style="color:gray">17:00</span> Discussion moderated by Prof. Dr. Elenore Stutzmann
 
