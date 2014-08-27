@@ -91,6 +91,12 @@ Pre-registration starts now, and closes on <b>September 1st, 2014</b>. Please [c
 There will be no registration fee. However, we kindly ask the participants to cover the dinner on Friday on their own.
 <br></br>
 
+#### Accommodation
+For a list of nearby hotels and lodging agencies, please, click [here](http://www.geophysik.uni-muenchen.de/welcome/accommodations?set_language=en).
+
+<br></br>
+
+
 
 ### Contact & Organisation
 
