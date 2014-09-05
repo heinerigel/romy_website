@@ -38,7 +38,7 @@ During the workshop, two main questions will be addressed:
 ### Preliminary Program
 ---
 #### Thursday, September 11
-We will welcome you on Thursday evening from 18:00 with an icebreaker (Location to be announced.). The scientific program starts on Friday.
+We will welcome you on Thursday evening from 18:00 with an icebreaker (location further down). The scientific program starts on Friday.
 
 <br>
 #### Friday, September 12
@@ -82,6 +82,21 @@ We will welcome you on Thursday evening from 18:00 with an icebreaker (Location 
 The workshop will take place in the building of the [Center for Advanced Studies (CAS)](http://www.en.cas.uni-muenchen.de/about_us/index.html): Seestrasse 13, Munich
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Seestra%C3%9Fe+13+80802+Munich&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=52.77044,82.529297&amp;ie=UTF8&amp;hq=&amp;hnear=Seestra%C3%9Fe+13,+Schwabing-Freimann+80802+M%C3%BCnchen,+Germany&amp;t=m&amp;z=14&amp;ll=48.158793,11.590317&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Seestra%C3%9Fe+13+80802+Munich&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=52.77044,82.529297&amp;ie=UTF8&amp;hq=&amp;hnear=Seestra%C3%9Fe+13,+Schwabing-Freimann+80802+M%C3%BCnchen,+Germany&amp;t=m&amp;z=14&amp;ll=48.158793,11.590317" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+<br></br>
+
+### Icebreaker
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.de/maps?client=opera&amp;oe=utf-8&amp;channel=suggest&amp;ie=UTF8&amp;fb=1&amp;gl=de&amp;sll=48.141783,11.577953&amp;sspn=0.0219934,0.0439462&amp;cid=574362365487061064&amp;q=pf%C3%A4lzer+weinstube+m%C3%BCnchen&amp;hq=&amp;hnear=&amp;ll=48.141783,11.577953&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe><br /><small><a href="https://maps.google.de/maps?client=opera&amp;oe=utf-8&amp;channel=suggest&amp;ie=UTF8&amp;fb=1&amp;gl=de&amp;sll=48.141783,11.577953&amp;sspn=0.0219934,0.0439462&amp;cid=574362365487061064&amp;q=pf%C3%A4lzer+weinstube+m%C3%BCnchen&amp;hq=&amp;hnear=&amp;ll=48.141783,11.577953&amp;spn=0.006295,0.006295&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+The icebreaker will take place on Thursday evening in the “Pfälzer Residenz Weinstube”. The restaurant is right next to subway station “Odeonsplatz”, accessible by lines U3, U4, U5 and U6. You are welcome to join us for a glass of wine starting from 18:00 in the "Trifels Stube" – shown on the small map below.
+
+<br></br>
+
+<div>
+        <img style="max-height: 500px; max-width: 500px" src="../images/WShum/weinstube_room.png" alt="weinstube" class="img-circle media-object">
+</div>
+
 
 <br></br>
 
