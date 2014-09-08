@@ -15,7 +15,7 @@ The aim of the workshop is to discuss recent developments in the observation and
 of the Earth's Hum. An international group of researchers will be brought together to provide 
 insights on possible excitation mechanisms as well as improved observation strategies. 
 
-Prof. T. Tanimoto is one of the leading experts on the topic of the Earth's Hum and a keynote speaker. 
+Prof. Toshiro Tanimoto is one of the leading experts on the topic of the Earth's Hum and a keynote speaker. 
 He will be visiting the Seismology department at LMU in September and October supported by a CAS fellowship.  
 
 
@@ -35,7 +35,7 @@ During the workshop, two main questions will be addressed:
 
 <br></br>
 
-### Preliminary Program
+### Program
 ---
 #### Thursday, September 11
 We will welcome you on Thursday evening from 18:00 with an icebreaker (location further down). The scientific program starts on Friday.
@@ -101,7 +101,7 @@ The icebreaker will take place on Thursday evening in the “Pfälzer Residenz W
 <br></br>
 
 ### Registration
-Pre-registration starts now, and closes on <b>September 1st, 2014</b>. Please [click here to register](https://docs.google.com/forms/d/1YL1edkyFC0_O3IEkApugAZUDIm5AjJgzDv8opZ6IYEw/viewform?usp=send_form). The number of participants is limited to 30, first come first serve.
+Registration is now closed. 
 
 There will be no registration fee. However, we kindly ask the participants to cover the dinner on Friday on their own.
 <br></br>
