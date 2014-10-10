@@ -20,7 +20,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = "romy_theme"
 
-STATIC_PATHS = ["images", ]
+STATIC_PATHS = ["images", "docs", ]
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
