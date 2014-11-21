@@ -2,6 +2,38 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+### <small>2014/11/18</small> Begin of drilling for borehole stations
+
+For the three borehole stations surrounding the ringlaser the drilling of the boreholes has began. The borehole next to the location of the ringlaser with a depth of 90m is the first one to be drilled. The other two boreholes with depths of 15m will be drilled within the next days and weeks.
+<br></br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/constr/FFB-Bohr.003-1.png">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/constr/IMG1952.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/constr/IMG1967.jpg">
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+### <small>Oct. 2014</small> Additional funding by LMU
+
+The LMU has decided to co-finance the installation of the ring laser in the Geophysical Observatory Fürstenfeldbruck allowing us to realize our favoured geometry with a tetrahedral shape and 12m side length. Start of construction is planned for early summer 2015.
+
+
 ### <small>2014/07/04</small> Prof. Toshiro Tanimoto visits LMU as CAS Fellow 
 
 Prof. Tanimoto is one of the leading experts on the topic of the Earths
