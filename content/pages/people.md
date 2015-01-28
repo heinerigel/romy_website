@@ -67,4 +67,60 @@ Authors: Heiner Igel
     </div>
 </div>
 
+<br> </br>
+
+
+
+<h3> External collaborators </h3>
+
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Prof. Dr. Jon-Paul Wells (University of Canterbury, Christchurch, NZ)</h4>
+        <a href="http://www.phys.canterbury.ac.nz/people/wells.shtml">Website</a>
+    </div>
+</div>
+
+
+
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Prof. Dr. Andreas Fichtner (ETH Zurich, Zurich, CH)</h4>
+        <a href="http://www.cos.ethz.ch/imprint/people/professors/andreafi">Website</a>
+    </div>
+</div>
+
+
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Prof. Toshiro Tanimoto (UC Santa Barbara, CA, USA)</h4>
+        <a href="http://www.geol.ucsb.edu/people/toshiro-tanimoto">Website</a>
+    </div>
+</div>
+
+
+
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Dr. Mechita Schmidt-Aursch (AWI, Bremerhafen, DE)</h4>
+        <a href="http://www.awi.de/People/schow?mschmidt">Website</a>
+    </div>
+</div>
+
+
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Dr. A. Di Virgilo (University of Pisa, Pisa, IT)</h4>
+    </div>
+</div>
+
+
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Dr. M. Krings (LITEF, Freiburg, DE)</h4>
+    </div>
+</div>
+
+
+
+
 
