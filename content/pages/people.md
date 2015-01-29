@@ -109,6 +109,15 @@ Authors: Heiner Igel
 
 <div class="media">
     <div class="media-body">
+        <h4 class="media-heading">Frank Vernon (Scripps Institution of Oceanography, CA, USA)</h4>
+        <a href="http://igpp.ucsd.edu/person/flvernon">Website</a>
+    </div>
+</div>
+
+
+
+<div class="media">
+    <div class="media-body">
         <h4 class="media-heading">Dr. A. Di Virgilo (University of Pisa, Pisa, IT)</h4>
     </div>
 </div>
