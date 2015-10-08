@@ -6,7 +6,7 @@ Authors: Heiner Igel
 #### General links
 
 * [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) 
-* [Large Laser Gyroscope, Wettzell](www.fs.wettzell.de/LKREISEL/G/LaserGyros.html)
+* [Large Laser Gyroscope, Wettzell](http://www.fs.wettzell.de/LKREISEL/G/LaserGyros.html)
 
 <br></br>
 

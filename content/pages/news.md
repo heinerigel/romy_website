@@ -2,6 +2,11 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>August 2015</small> Installation of borehole stations completed
+
+At all three boreholes the installation of stations is completed. The stations are equipped with Nanometrics Trillium 120 Posthole instruments and Centaur recorders. They are named FFB1 (90m, S corner of observatory), FFB2 (15m, NE corner), and FFB3 (15m, NW corner). Data can be retrieved via fdsn webservices.
+<br> </br>
+
 #### <small>2015/04/12-17</small> ROMY at EGU
 
 At the annual [General Assembly of the European Geosciences Union](http://www.egu2015.eu) in Vienna Toshiro Tanimoto et al. presented their work about ["Estimates of Rayleigh-to-Love wave ratio in microseisms by co-located Ring Laser and STS-2"](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-4155.pdf)
@@ -37,7 +42,7 @@ For the three borehole stations surrounding the ringlaser the drilling of the bo
 
 #### <small>Oct. 2014</small> Additional funding by LMU
 
-The LMU has decided to co-finance the installation of the ring laser in the Geophysical Observatory Fürstenfeldbruck allowing us to realize our favoured geometry with a tetrahedral shape and 12m side length. Start of construction is planned for autumn 2015.
+The LMU has decided to co-finance the installation of the ring laser in the Geophysical Observatory Fürstenfeldbruck allowing us to realize our favoured geometry with a tetrahedral shape and 12m side length. Start of construction is planned for spring 2016.
 
 <br></br>
 

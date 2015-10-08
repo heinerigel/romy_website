@@ -45,6 +45,16 @@ Authors: Heiner Igel
     </div>
 </div>
 
+<div class="media">
+    <a class="pull-left" href="#">
+        <img style="max-height: 64px; max-width: 64px" src="../images/people/youngman.jpg" alt="Chin Lin" class="img-circle media-object">
+    </a>
+    <div class="media-body">
+        <h4 class="media-heading">Chin Lin (LMU)</h4>
+        <a href="http://www.geophysik.uni-muenchen.de/Members/lin">Website</a>
+    </div>
+</div>
+
 
 <div class="media">
     <a class="pull-left" href="#">
@@ -71,7 +81,8 @@ Authors: Heiner Igel
 
 
 
-<h3> External collaborators </h3>
+### **External collaborators**  
+##
 
 <div class="media">
     <div class="media-body">
