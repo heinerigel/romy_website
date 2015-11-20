@@ -2,9 +2,16 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
-#### <small>2016</small> IWGoRS Meeting, Germany
+#### <small>June 2016</small> IWGoRS Meeting, Germany
 
-In 2016 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet again. The meeting takes place every three years at different places. In 2016 it will be in Germany. Further information will come soon.
+In 2016 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet. 
+Registration for the 3-day meeting is now open. The 4th IWGoRS workshop will be held at the 
+Evangelische Akademie Tutzing (near Munich, Germany), June 20-23, 2016. The workshop will focus 
+on any aspect of rotational ground motion including the recording of rotations, instrumentation, 
+earthquake sources, non-standard rheologies, inverse problems, geodesy, earthquake engineering, 
+long-period seismology, array-derived rotation, noise-correlation studies, ring laser technology, 
+Earth's rotation, problems of fundamental physics and others. The meeting is co-funded by the 
+ERC project ROMY.
 <br></br>
 
 #### <small>June/July 2015</small> IUGG General Assembly, Prague

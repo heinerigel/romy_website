@@ -2,17 +2,30 @@ Title: Publications
 Slug: publications
 Authors: Heiner Igel
 
+### 2016
+Igel, H., **Computational Seismology: A Practical Introduction**, Oxford University Press 
+(to appear in 2016, with some exercises related to rotational seismology)
+
+
 ### 2015
 
+Lindner, F., J. Wassermann, M. Schmidt-Aursch, K.U. Schreiber and H. Igel,
+**Sea-floor ground rotation observations: potential for improving
+signal-to-noise ratio on horizontal OBS components**, Geophys. Res. Lett., submitted.
+####
 Tanimoto, T.; Hadziioannou, C.; Igel, H.; Wassermann, J.; Schreiber, U. and Gebauer, A. (2015), **Estimate of Rayleigh-to-Love wave ratio in the secondary microseism by co-located ring laser and seismograph**, Geophys. Res. Lett., in press, doi: [10.1002/2015GL063637](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063637/abstract).
 ####
 van Driel, M.; Wassermann, J.; Pelties, C.; Schiemenz, A. &  Igel, H. (2014),
 **Tilt Effects on Moment Tensor Inversion in the Nearfield of Active Volcanoes **,
-Geophysical Journal International, in press.
+Geophysical Journal International,  1711-1721, doi:10.1093/gji/ggv209.
 ####
 Nader, M.F.; Igel, H.; Ferreira, A.M.G.; Al-Attar, D.; Wassermann, J. & Schreiber, K.U. (2014),
 **Normal mode coupling observations with a rotation sensor**,
-Geophysical Journal International, in press.
+Geophysical Journal International, 201 (3): 1482-1490. doi: 10.1093/gji/ggv082.
+####
+Igel, H., M. Bernauer, J. Wassermann, and K. U. Schreiber (2015), **Rotational Seismology: 
+Theory, Instrumentation, Observations, Applications**,  in Encyclopedia of Complexity and 
+System Science, edited by WHK Lee,Springer-Verlag New York, in press. 
 
 ### 2014 
 
