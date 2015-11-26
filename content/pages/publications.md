@@ -5,7 +5,8 @@ Authors: Heiner Igel
 ### 2016
 Igel, H., **Computational Seismology: A Practical Introduction**, Oxford University Press 
 (to appear in 2016, with some exercises related to rotational seismology)
-
+###
+Donner, S., Bernauer, M., Igel, H., **Inversion for seismic moment tensors combining translational and rotational ground motions**, Geophys. J. Int., submitted
 
 ### 2015
 
