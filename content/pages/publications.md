@@ -7,6 +7,9 @@ Igel, H., **Computational Seismology: A Practical Introduction**, Oxford Univers
 (to appear in 2016, with some exercises related to rotational seismology)
 ###
 Donner, S., Bernauer, M., Igel, H., **Inversion for seismic moment tensors combining translational and rotational ground motions**, Geophys. J. Int., submitted
+###
+Wassermann, J., Wieteck, A., Hadziioannou, C.,and Igel, H., **Towards a Single Station Approach for Microzonation: Using Vertical Rotation
+Rate to Estimate Love-Wave Dispersion Curves and Direction Finding**, Bull. Seis. Soc. Amer., submitted.
 
 ### 2015
 
