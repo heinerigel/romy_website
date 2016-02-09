@@ -73,18 +73,18 @@ Authors: Heiner Igel
         <img style="max-height: 64px; max-width: 64px" src="../images/people/nader.jpg" alt="Maria-Fernanda Nader-Nieto" class="img-circle media-object">
     </a>-->
     <div class="media-body">
-        <h4 class="media-heading">Andre Gebauer (LMU)</h4>
-        <a href="http://www.geophysik.uni-muenchen.de/Members/gebauer">Website</a>
+        <h4 class="media-heading">Andre Gebauer (LMU + TUM)</h4>
+        <a href="http://www.iapg.bgu.tum.de/Mitarbeiter/Andre_Gebauer">Website</a>
     </div>
 </div>
 
 
 <div class="media">
-<!--    <a class="pull-left" href="#">
-        <img style="max-height: 64px; max-width: 64px" src="../images/people/nader.jpg" alt="Maria-Fernanda Nader-Nieto" class="img-circle media-object">
-    </a>-->
+    <a class="pull-left" href="#">
+        <img style="max-height: 64px; max-width: 64px" src="../images/people/simonelli.jpg" alt="Andrea Simonelli" class="img-circle media-object">
+    </a>
     <div class="media-body">
-        <h4 class="media-heading">Andrea Simonelli (INFN Pisa)</h4>
+        <h4 class="media-heading">Andrea Simonelli (LMU + INFN Pisa)</h4>
 <!--         <a href="http://www.geophysik.uni-muenchen.de/Members/nader">Website</a> -->
     </div>
 </div>
