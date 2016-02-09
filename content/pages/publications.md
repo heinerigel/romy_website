@@ -3,6 +3,8 @@ Slug: publications
 Authors: Heiner Igel
 
 ### 2016
+Tanimoto, T., Hadziioannou, C., Igel, H., Wassermann, J., Schreiber, U., Gebauer, A., and Chow, B., **Seasonal variations in the Rayleigh-to-Love wave ratio in the secondary microseism by co-located ring laser and seismograph**, JGR, submitted
+###
 Igel, H., **Computational Seismology: A Practical Introduction**, Oxford University Press 
 (to appear in 2016, with some exercises related to rotational seismology)
 ###
@@ -15,7 +17,7 @@ Rate to Estimate Love-Wave Dispersion Curves and Direction Finding**, Bull. Seis
 
 Lindner, F., J. Wassermann, M. Schmidt-Aursch, K.U. Schreiber and H. Igel,
 **Sea-floor ground rotation observations: potential for improving
-signal-to-noise ratio on horizontal OBS components**, Geophys. Res. Lett., submitted.
+signal-to-noise ratio on horizontal OBS components**, SRL, submitted.
 ####
 Tanimoto, T.; Hadziioannou, C.; Igel, H.; Wassermann, J.; Schreiber, U. and Gebauer, A. (2015), **Estimate of Rayleigh-to-Love wave ratio in the secondary microseism by co-located ring laser and seismograph**, Geophys. Res. Lett., in press, doi: [10.1002/2015GL063637](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063637/abstract).
 ####
