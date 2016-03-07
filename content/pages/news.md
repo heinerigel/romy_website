@@ -2,6 +2,18 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>February 2016</small> Beginn of construction for the ringlaser
+
+Finally, the construction has started! At the end of February the construction company started to dig the 33 by 15 meter hole (diameter x depth) for the first-of-its-kind 3-component tetrahedral ringlaser. We expect the end of the construction and installation within this summer. With this new instrument it will be possible to observe the complete 3D field of rotational ground motions for the first time.
+
+  <div class="row">
+    <div class="col-lg-3">
+       <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/constr/20160304080004.jpg">
+      </a>
+    </div>
+  </div>
+
 #### <small>August 2015</small> Installation of borehole stations completed
 
 At all three boreholes the installation of stations is completed. The stations are equipped with Nanometrics Trillium 120 Posthole instruments and Centaur recorders. They are named FFB1 (90m, S corner of observatory), FFB2 (15m, NE corner), and FFB3 (15m, NW corner). Data can be retrieved via fdsn webservices.
@@ -37,8 +49,6 @@ For the three borehole stations surrounding the ringlaser the drilling of the bo
     </div>
   </div>
 </div>
-
-<br></br>
 
 #### <small>Oct. 2014</small> Additional funding by LMU
 
