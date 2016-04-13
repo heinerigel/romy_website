@@ -3,15 +3,15 @@ Slug: publications
 Authors: Heiner Igel
 
 ### 2016
-Tanimoto, T., Hadziioannou, C., Igel, H., Wassermann, J., Schreiber, U., Gebauer, A., and Chow, B., **Seasonal variations in the Rayleigh-to-Love wave ratio in the secondary microseism by co-located ring laser and seismograph**, JGR, submitted
+Tanimoto, T., Hadziioannou, C., Igel, H., Wassermann, J., Schreiber, U., Gebauer, A., and Chow, B., **Seasonal variations in the Rayleigh-to-Love wave ratio in the secondary microseism by co-located ring laser and seismograph**, JGR, doi: [10.1002/2016JB012885](http://onlinelibrary.wiley.com/doi/10.1002/2016JB012885/full).
 ###
 Igel, H., **Computational Seismology: A Practical Introduction**, Oxford University Press 
 (to appear in 2016, with some exercises related to rotational seismology)
 ###
-Donner, S., Bernauer, M., Igel, H., **Inversion for seismic moment tensors combining translational and rotational ground motions**, Geophys. J. Int., submitted
+Donner, S., Bernauer, M., Igel, H., **Inversion for seismic moment tensors combining translational and rotational ground motions**, Geophys. J. Int., in review.
 ###
 Wassermann, J., Wieteck, A., Hadziioannou, C.,and Igel, H., **Towards a Single Station Approach for Microzonation: Using Vertical Rotation
-Rate to Estimate Love-Wave Dispersion Curves and Direction Finding**, Bull. Seis. Soc. Amer., submitted.
+Rate to Estimate Love-Wave Dispersion Curves and Direction Finding**, Bull. Seis. Soc. Amer., in press.
 
 ### 2015
 

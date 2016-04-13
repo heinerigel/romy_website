@@ -2,6 +2,11 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+#### <small>April 2016</small> Special session at EGU
+
+At the General Assembly from 17 to 22 April in Vienna, we organise a special session on *New developments in seismic and geodetic instrumentation* (SM 7.2/G 6.2). We kindly invite you to meet us there.
+<br></br>
+
 #### <small>June 2016</small> IWGoRS Meeting, Germany
 
 In 2016 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet. 

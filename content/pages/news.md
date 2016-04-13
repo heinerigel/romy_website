@@ -2,14 +2,43 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>April 2016</small> Touch down
+
+The deepest point of the ringlaser construction is touched - the hole is finished. After finalising the base, the construction of the tetrahedral structures will start from bottom to top. 
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/constr/20160413113004.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/constr/IMG_2838.JPG">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/constr/IMG_2839.JPG">
+      </a>
+    </div>
+  </div>
+ </div>
+
+#### <small>March 2016</small> Medial attention
+
+On March 31st the local newspaper of Fuerstenfeldbruck *Merkur* became interested in our project and construction activities. The full article you can find [here](http://www.merkur.de/lokales/fuerstenfeldbruck/fuerstenfeldbruck/krater-erdbebenforscher-6265455.html) (in German). 
+<br></br>
+
 #### <small>February 2016</small> Beginn of construction for the ringlaser
 
 Finally, the construction has started! At the end of February the construction company started to dig the 33 by 15 meter hole (diameter x depth) for the first-of-its-kind 3-component tetrahedral ringlaser. We expect the end of the construction and installation within this summer. With this new instrument it will be possible to observe the complete 3D field of rotational ground motions for the first time.
 
   <div class="row">
     <div class="col-lg-3">
-       <a class="thumbnail" href="#">
-         <img style="max-height: 300px; max-width: 300px" src="../images/constr/20160304080004.jpg">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 350px; max-width: 350px" src="../images/constr/20160304080004.jpg">
       </a>
     </div>
   </div>
