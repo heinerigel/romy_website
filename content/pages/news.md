@@ -6,7 +6,7 @@ Authors: Heiner Igel
 
 At the EGU General Assembly in Vienna Prof. Ullrich Schreiber (ring laser specialist in ROMY project) receives Christiaan Huygens Medal. congratulations!
 
-Also, plans for a new broadband rotation sensor by iXBlue (St. Germain-en-Laye near Paris) launched during the instrumentation session. The session the official www page of the new rotation sensor called BlueSeis-3A was launched. The first prototype shall be shipped to LMU in September 2016. <br></br>
+Also, plans for a new broadband rotation sensor by iXBlue (St. Germain-en-Laye near Paris) launched during the instrumentation session. During the session the official www page of the new rotation sensor called BlueSeis-3A was launched. The first prototype shall be shipped to LMU in September 2016. <br></br>
 
  <div class="container">
   <div class="row">
