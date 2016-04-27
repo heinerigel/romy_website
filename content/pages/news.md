@@ -2,6 +2,28 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>April 2016</small> News from EGU, Vienna
+
+At the EGU General Assembly in Vienna Prof. Ullrich Schreiber (ring laser specialist in ROMY project) receives Christiaan Huygens Medal. congratulations!
+
+Also, plans for a new broadband rotation sensor by iXBlue (St. Germain-en-Laye near Paris) launched during the instrumentation session. The session the official www page of the new rotation sensor called BlueSeis-3A was launched. The first prototype shall be shipped to LMU in September 2016. <br></br>
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/news/egu_schreiber.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 200px" src="../images/news/egu_ixblue.jpg">
+      </a>
+    </div>
+  </div>
+ </div>
+
+
 #### <small>April 2016</small> Touch down
 
 The deepest point of the ringlaser construction is touched - the hole is finished. After finalising the base, the construction of the tetrahedral structures will start from bottom to top. 
