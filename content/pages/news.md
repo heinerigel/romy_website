@@ -17,7 +17,7 @@ Also, plans for a new broadband rotation sensor by iXBlue (St. Germain-en-Laye n
     </div>
     <div class="col-lg-3">
       <a class="thumbnail" href="#">
-         <img style="max-height: 200px; max-width: 200px" src="../images/news/egu_ixblue.jpg">
+         <img style="max-height: 200px; max-width: 200px" src="../images/news/DSC08214.jpg">
       </a>
     </div>
   </div>
