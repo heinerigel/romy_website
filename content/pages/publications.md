@@ -5,7 +5,7 @@ Authors: Heiner Igel
 ### 2016
 Reinwald, M., Bernauer, M., Igel, H., and Donner, S., **Improved finite-source inversion through joint measurements of rotational and translational ground motions: A theoretical study**, under discussion at Solid Earth, doi: [10.5194/se-2016-67](http://www.solid-earth-discuss.net/se-2016-67/).
 ###
-Simonelli, A., Belfi, J., Beverini, N., Carelli, G., Di virgilio, A., Maccioni, E., De Luca, G., and Saccorotti, G., **First deep underground observation of rotational signals from an earthquake at teleseismic distance using a large ring laser gyroscope**, Cornell University Library - Geophysics, [arXiv:1601.05960](http://arxiv.org/abs/1601.05960).
+Simonelli, A., Belfi, J., Beverini, N., Carelli, G., Di Virgilio, A., Maccioni, E., De Luca, G., and Saccorotti, G., **First deep underground observation of rotational signals from an earthquake at teleseismic distance using a large ring laser gyroscope**, Annals of Geophysics, 59, doi: 10.4401/ag-6970.
 ###
 Tanimoto, T., Hadziioannou, C., Igel, H., Wassermann, J., Schreiber, U., Gebauer, A., and Chow, B., **Seasonal variations in the Rayleigh-to-Love wave ratio in the secondary microseism by co-located ring laser and seismograph**, JGR, doi: [10.1002/2016JB012885](http://onlinelibrary.wiley.com/doi/10.1002/2016JB012885/full).
 ###
