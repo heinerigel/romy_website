@@ -2,6 +2,18 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>May 2016</small> ROMY in the media
+
+The Bayrische Rundfunk - a regional radio and television channel - got interested in the ROMY project and broadcasted reports in radio and TV, interviewing Heiner Igel and Joachim Wassermann. Here, you can listen/view them (in German): [radio-1](http://www.br.de/nachrichten/oberbayern/inhalt/romy-erdbebenzentrum-ffb-100.html) and [radio-2](http://www.br.de/radio/bayern1/sendungen/mittags-in-oberbayern/einzigartiges-forschungsinstrument-erdbeben-ffb-100.html).
+
+<br>
+
+<video id="pelican-installation" class="video-js vjs-default-skin" controls preload="auto" width="683" height="384" data-setup="{}">
+<source src="../images/erdbeben-abendschau.mp4" type='video/mp4'>
+</video>   
+
+<br><br>
+
 #### <small>April 2016</small> News from EGU, Vienna
 
 At the EGU General Assembly in Vienna Prof. Ullrich Schreiber (ring laser specialist in ROMY project) receives Christiaan Huygens Medal. congratulations!
