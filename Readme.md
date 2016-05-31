@@ -71,7 +71,7 @@ Automatically run `build` on every change to a source file.
 $ fab serve
 ```
 
-Publishes the site on a local webserver (http://localhost:8000). Best used in
+Publishes the site on a local [webserver](http://localhost:8000). Best used in
 conjunction with `regenerate` when making changes to the website.
 
 

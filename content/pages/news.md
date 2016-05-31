@@ -4,7 +4,7 @@ Authors: Heiner Igel
 
 #### <small>May 2016</small> ROMY in the media
 
-The Bayrische Rundfunk - a regional radio and television channel - got interested in the ROMY project and broadcasted reports in radio and TV, interviewing Heiner Igel and Joachim Wassermann. Here, you can listen/view them (in German): [radio-1](http://www.br.de/nachrichten/oberbayern/inhalt/romy-erdbebenzentrum-ffb-100.html) and [radio-2](http://www.br.de/radio/bayern1/sendungen/mittags-in-oberbayern/einzigartiges-forschungsinstrument-erdbeben-ffb-100.html).
+The Bayrische Rundfunk - a regional radio and television channel - got interested in the ROMY project and broadcasted reports in radio and TV, interviewing Heiner Igel and Joachim Wassermann. Here, you can listen/view them (in German): [radio-1](http://www.br.de/nachrichten/oberbayern/inhalt/romy-erdbebenzentrum-ffb-100.html), [radio-2](http://www.br.de/radio/bayern1/sendungen/mittags-in-oberbayern/einzigartiges-forschungsinstrument-erdbeben-ffb-100.html), [radio-3](http://www.br.de/radio/bayern2/programmkalender/ausstrahlung-687924.html), and [radio-4](http://www.br.de/radio/bayern2/wissen/iq-wissenschaft-und-forschung/erdbebenmessung-bei-muenchen-100.html).
 
 <br>
 
