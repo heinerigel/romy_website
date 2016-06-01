@@ -15,7 +15,7 @@ Igel, H., **Computational Seismology: A Practical Introduction**, Oxford Univers
 Donner, S., Bernauer, M., Igel, H., **Inversion for seismic moment tensors combining translational and rotational ground motions**, Geophys. J. Int., in review.
 ###
 Wassermann, J., Wieteck, A., Hadziioannou, C.,and Igel, H., **Towards a Single Station Approach for Microzonation: Using Vertical Rotation
-Rate to Estimate Love-Wave Dispersion Curves and Direction Finding**, Bull. Seis. Soc. Amer., in press.
+Rate to Estimate Love-Wave Dispersion Curves and Direction Finding**, Bull. Seis. Soc. Amer., doi: [10.1785/0120150250](http://www.bssaonline.org/content/early/2016/05/13/0120150250.abstract).
 
 ### 2015
 

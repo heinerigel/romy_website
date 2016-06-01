@@ -2,6 +2,14 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>May/June 2016</small> Dr. Nori Nakata visits LMU as a CAS Fellow
+
+[Nori Nakata](http://stanford.edu/~nnakata/) currently holds a George Thompson Postdoctoral Fellowship at Stanford University (USA), where he works on a broad range of topics including many from the field of ambient noise and interferometry. His interests extend to both the theoretical and methodological aspects of rotational seismology.
+
+During his visit, Nori will work on developing new applications for the data which will be recorded in the future with the new ringlaser, as
+well as test them with archive data available from the Wettzell sensor.
+<br><br>
+
 #### <small>May 2016</small> ROMY in the media
 
 The Bayrische Rundfunk - a regional radio and television channel - got interested in the ROMY project and broadcasted reports in radio and TV, interviewing Heiner Igel and Joachim Wassermann. Here, you can listen/view them (in German): [radio-1](http://www.br.de/nachrichten/oberbayern/inhalt/romy-erdbebenzentrum-ffb-100.html), [radio-2](http://www.br.de/radio/bayern1/sendungen/mittags-in-oberbayern/einzigartiges-forschungsinstrument-erdbeben-ffb-100.html), [radio-3](http://www.br.de/radio/bayern2/programmkalender/ausstrahlung-687924.html), and [radio-4](http://www.br.de/radio/bayern2/wissen/iq-wissenschaft-und-forschung/erdbebenmessung-bei-muenchen-100.html).
