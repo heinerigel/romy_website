@@ -50,7 +50,7 @@ Authors: Heiner Igel
 	<img style="max-height: 64px; max-width: 64px" src="../images/people/youngman.jpg" alt="Chin-Jen Lin" class="img-circle media-object">
     </a>
     <div class="media-body">
-        <h4 class="media-heading">Chin-Jen Lin (LMU)</h4>
+        <h4 class="media-heading">Dr. Chin-Jen Lin (LMU)</h4>
         <a href="http://www.geophysik.uni-muenchen.de/Members/lin">Website</a>
     </div>
 </div>
@@ -59,10 +59,10 @@ Authors: Heiner Igel
 
 <div class="media">
     <a class="pull-left" href="#">
-        <img style="max-height: 64px; max-width: 64px" src="../images/people/bernauer.jpg" alt="Moritz Bernauer" class="img-circle media-object">
+        <img style="max-height: 64px; max-width: 64px" src="../images/people/bernauer.jpg" alt="Felix Bernauer" class="img-circle media-object">
     </a>
     <div class="media-body">
-        <h4 class="media-heading">Moritz Bernauer (LMU)</h4>
+        <h4 class="media-heading">Dr. Felix Bernauer (LMU)</h4>
         <a href="http://www.geophysik.uni-muenchen.de/Members/bernauer">Website</a>
     </div>
 </div>
@@ -73,7 +73,7 @@ Authors: Heiner Igel
         <img style="max-height: 64px; max-width: 64px" src="../images/people/nader.jpg" alt="Maria-Fernanda Nader-Nieto" class="img-circle media-object">
     </a>-->
     <div class="media-body">
-        <h4 class="media-heading">Andre Gebauer (LMU + TUM)</h4>
+        <h4 class="media-heading">Dr. Andre Gebauer (LMU + TUM)</h4>
         <a href="http://www.iapg.bgu.tum.de/Mitarbeiter/Andre_Gebauer">Website</a>
     </div>
 </div>
@@ -157,6 +157,11 @@ Authors: Heiner Igel
     </div>
 </div>
 
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">Frederic Guattari (<a href="https://www.ixblue.com">iXblue</a>)</h4>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
