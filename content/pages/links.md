@@ -7,10 +7,12 @@ Authors: Heiner Igel
 
 * [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) 
 * [Large Laser Gyroscope, Wettzell](http://www.fs.wettzell.de/LKREISEL/G/LaserGyros.html)
+* [Rotational Seismology Event Database](http://www.rotational-seismology.org/data/eventdb)
 
 <br></br>
 
 #### For students
 
 * [Measuring rotational ground motions in seismological practice](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:43316/component/escidoc:56116/IS_5.3_rev1.pdf)
+* [Live Jupyter Notebooks for Seismology](http://seismo-live.org)
 
