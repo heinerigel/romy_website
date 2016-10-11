@@ -6,13 +6,32 @@ Authors: Heiner Igel
 
 From September 23 to October 14 a small expedition is working on Stromboli volcano. This is the first field work with some prototypes of a portable sensor for rotational ground motion ([BlueSeis-3A](www.blueseis.com)) from the company [iXblue](www.ixblue.com). In addition, standard broadband seismometers and tiltmeters are installed. Thus, we have a collocated observation of direct and array-derived measurements for translation, rotation, and strain.
 
+ <div class="container">
   <div class="row">
     <div class="col-lg-3">
       <a class="thumbnail" href="#">
-         <img style="max-height: 350px; max-width: 350px" src="../images/news/Stromboli_2016_Aufbau.png">
+         <img style="max-height: 300px; max-width: 300px" src="../images/news/Stromboli_2016_Aufbau.png">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/news/IMG_1316.JPG">
       </a>
     </div>
   </div>
+ </div>
+
+<br>
+Click on the following image to see a short movie from the field.
+
+[<img src="../images/news/stromboli.jpg">](https://splice.gopro.com/v?id=epqGQdWJd)
+
+<br>
+ 
+
+#### <small>September 2016</small> Receiving the first prototype from iXblue
+
+The first [BlueSeis-3A](www.blueseis.com) prototype of a portable, 3-component rotational sensor was shipped by the company [iXblue](www.ixblue.com), our cooperation partner. It will be tested during field work on Stromboli.
 
 <br>
 
