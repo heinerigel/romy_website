@@ -63,7 +63,7 @@ Finally, after five exciting month the construction of the ringlaser building is
 <br>
 
 <video id="pelican-installation" class="video-js vjs-default-skin" controls preload="auto" width="683" height="384" data-setup="{}">
-<source src="../images/romy_canon_faster_stabilised_logo.mp4" type='video/mp4'>
+<source src="../images/large_files/romy_canon_faster_stabilised_logo.mp4" type='video/mp4'>
 </video>   
 
 <br><br>

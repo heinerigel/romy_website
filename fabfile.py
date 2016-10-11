@@ -36,7 +36,7 @@ def publish():
     local('rm -rf output/theme/.svn')
     project.rsync_project(
         remote_dir=dest_path,
-        exclude=".DS_Store",
+        exclude=[".DS_Store", "images/large_files"],
         local_dir=DEPLOY_PATH.rstrip('/') + '/*',
         delete=True,
         extra_opts="--omit-dir-times --chmod=Dug=rwx,Do=rx,Fug=rw,Fo=r"

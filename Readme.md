@@ -94,6 +94,19 @@ $ git commit -a
 $ git push
 ```
 
+First of all make sure to pull in any potential changes made by others by doing..
+
+```bash
+$ git pull
+```
+
+### Large files
+
+Large files that should not be commited with git (larger than 80 MB) can be
+copied manually to `venus` into the directory
+`/var/www/geophysics/www/ROMY/images/large_files/` (make sure to set correct
+file permissions so that others can change files and everybody can read the
+file) and linked in the pages managed in git.
 
 ## Configuring SSH
 
