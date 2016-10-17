@@ -4,7 +4,7 @@ Authors: Heiner Igel
 
 #### <small>September/October 2016</small> Field work on Stromboli with portable rotation sensors
 
-From September 23 to October 14 a small expedition is working on Stromboli volcano. This is the first field work with some prototypes of a portable sensor for rotational ground motion ([BlueSeis-3A](www.blueseis.com)) from the company [iXblue](www.ixblue.com). In addition, standard broadband seismometers and tiltmeters are installed. Thus, we have a collocated observation of direct and array-derived measurements for translation, rotation, and strain.
+From September 23 to October 14 a small expedition is working on Stromboli volcano. This is the first field work with some prototypes of a portable sensor for rotational ground motion ([BlueSeis-3A](www.blueseis.com)) from the company [iXblue](www.ixblue.com). In addition, standard broadband seismometers and tiltmeters are installed. Therefore, we have a collocated observation of direct and array-derived measurements for translation, rotation, and strain.
 
  <div class="container">
   <div class="row">
@@ -37,7 +37,7 @@ The first [BlueSeis-3A](www.blueseis.com) prototype of a portable, 3-component r
 
 #### <small>2016/09/26</small> First light!
 
-The horizontal ringlaser is now switched on. The ringlaser works with Helium-Neon gas having a wavelength of 633 nm. Thus, we see read light.
+The horizontal ringlaser is now switched on. Since the ringlaser works with Helium-Neon gas, the resulting wavelength is 633 nm, which appears as red light.
 
   <div class="row">
     <div class="col-lg-3">
@@ -52,9 +52,9 @@ The horizontal ringlaser is now switched on. The ringlaser works with Helium-Neo
 
 #### <small>2016/09/09</small> Outer array finalized
 
-Next to the ringlaser and the three borehole stations on the ground of the observatory, we have installed five additional stations. They surround the observatory in a distance of about 2 km. Their installation began in August 2015 and is now finalized. Together with the data of the borehole stations, their data will be used to calculate array-derived rotation and compare them with the direct observations of the ringlaser. 
+Apart from the ringlaser and the three borehole stations on the observatory ground, we have installed five additional stations. They surround the observatory at a distance of about 2 km. Their installation began in August 2015 and is now finalized. Together with the data from the borehole stations, their data will be used to calculate array-derived rotation in order to compare it with the direct observations of the ringlaser.
 
-Blue triangle mark the area of the observatory. Stars give the positions of the outer stations.
+The blue triangle marks the observatory, the stars show the positions of the outer stations.
 
   <div class="row">
     <div class="col-lg-3">
@@ -69,7 +69,7 @@ Blue triangle mark the area of the observatory. Stars give the positions of the 
 
 #### <small>2016/08/25</small> Construction of ringlaser finished
 
-Finally, after five exciting month the construction of the ringlaser building is finished. Now, the second and even more exciting step is following: we can start to install the optical devices.
+Finally, after five exciting months, the construction of the ringlaser building is finished. From now on, the second and even more exciting step follows: we can start installing the optical devices.
 
   <div class="row">
     <div class="col-lg-3">

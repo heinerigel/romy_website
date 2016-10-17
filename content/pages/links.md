@@ -8,6 +8,7 @@ Authors: Heiner Igel
 * [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) 
 * [Large Laser Gyroscope, Wettzell](http://www.fs.wettzell.de/LKREISEL/G/LaserGyros.html)
 * [Rotational Seismology Event Database](http://www.rotational-seismology.org/data/eventdb)
+* [ROMY @ ResearchGate](https://www.researchgate.net/project/ROMY-ERC-Rotational-Motions-in-Seismology)
 
 <br></br>
 
