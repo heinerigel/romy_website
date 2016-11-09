@@ -2,6 +2,54 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+
+
+#### <small>26/30th October 2016</small> Data from central Italy
+
+The earthquakes in central Italy on 26th and 30th of October provided us an opportunity for a first check on our new, rotational instruments. The events have been recorded on the vertical component of our ringlaser and on the 3-component portable BlueSeis prototype. Here are first impressions:
+
+*Left picture:*
+Recording of the M6.6 Norcia event. Top is the vertical component of the ringlaser. The remaining traces are the three component of the BlueSeis prototype (1-N, 2-E, 3-Z). Data are lowpass filtered at 2Hz.
+
+*Right picture:*
+Same event. Cross-correlation of the ringlaser data (vertical component of rotation) with the transversal component of acceleration of station GR.FUR. Top subplot shows the bandpass filtered waveforms. The middle subplot shows the CC coefficients for varying backazimuths. The highest coefficients indicate the backazimuth of the event. Bottom subplot shows the phase velocities accociated with CC coefficients higher than 0.75.  Details of processing and theory can be found in e.g. [Hadziioannou et al., 2012](https://www.geophysik.uni-muenchen.de/~hadzii/files/hadzii2012_JoS.pdf).
+
+
+<br>
+
+<div class="container">
+<div align="center">
+ <img src="../images/large_files/norcia66_BLUS_ROMY.png" alt="" align="right" style="max-height: 400px; max-width: 500px"/>
+ <img src="../images/large_files/BAZ_norcia_ROMY.png" alt="" align="left" style="max-height: 400px; max-width: 500px" />
+</div>
+</div>
+
+
+<br> 
+
+#### <small>24th October 2016</small> Romy hears the ocean! 
+
+Below is a figure comparing the secondary microseism band observed by ringlaser ROMY in Fürstenfeldbruck to the same timespan observed with the G-ring laser in Wettzell, at a distance of 160 km to the North-East. As shown in [Hadziioannou et al., (2012)](https://www.geophysik.uni-muenchen.de/~hadzii/files/hadzii2012_JoS.pdf), the G-Ring at Wettzell has sufficient sensitivity to pick up the ocean-generated noise in the secondary microseism (around 0.1-0.2Hz). Here, we are looking at an hour of 'quiet' signal, where no earthquakes can be seen. This figure shows that the first ring of ROMY very likely picks up the same oceanic noise sources as the ring in Wettzell. 
+
+The left column shows the situation measured at the observatory in Fürstenfeldbruck. For reference, on the right the same time window is shown as measured at the Wettzell observatory. 
+
+The top row shows the waveforms, bandpass filtered between 0.1-0.2Hz. 
+In red is the vertical rotation rate measured by the ringlasers (ROMY, G-Ring), in black the transverse acceleration measured by broadband seismometers nearby (GR.FUR, GR.WET). 
+
+In the bottom two rows, the colorscale indicates correlation coefficient between the rotation rate and transverse acceleration, for each 60 second timewindow (red=1, gray=-1). 
+The center row depicts the the maximum values of the zero-lag correlation coefficient for each timewindow. For both observatories, we see pretty good correlation values, a strong indication that both instruments at each location (seismometer and ring laser) are picking up the same physical signal. 
+
+The lowermost row shows a 'sweep' through all possible backazimuths, done for each timewindow. Red colors indicate backazimuths where the match between rotation and transverse waveform is good. The black dots mark the best correlation for each timewindow. Since the backazimuth is defined as clockwise from North, the strongest source we pick up here (between 250--300 degrees)  seems to be in the direction of the North Atlantic. This is consistent for both observatory locations. 
+
+Processing is similar to that in Hadziioannou et al. (2012) and to the processing used for the [Rotational Event Database](http://www.rotational-seismology.org/data/eventdb). 
+<br>
+
+<div class="container">
+  <img style="max-height: 500px; max-width: 1000px" src="../images/large_files/baz_ROMY_RLAS_20161024_12_300dpi.png">
+</div>
+
+<br>
+  
 #### <small>September/October 2016</small> Field work on Stromboli with portable rotation sensors
 
 From September 23 to October 14 a small expedition is working on Stromboli volcano. This is the first field work with some prototypes of a portable sensor for rotational ground motion ([BlueSeis-3A](www.blueseis.com)) from the company [iXblue](www.ixblue.com). In addition, standard broadband seismometers and tiltmeters are installed. Therefore, we have a collocated observation of direct and array-derived measurements for translation, rotation, and strain.
