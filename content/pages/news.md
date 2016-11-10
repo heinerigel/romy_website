@@ -8,10 +8,10 @@ Authors: Heiner Igel
 
 The earthquakes in central Italy on 26th and 30th of October provided us an opportunity for a first check on our new, rotational instruments. The events have been recorded on the vertical component of our ringlaser and on the 3-component portable BlueSeis prototype. Here are first impressions:
 
-*Left picture:*
+*Right picture:*
 Recording of the M6.6 Norcia event. Top is the vertical component of the ringlaser. The remaining traces are the three component of the BlueSeis prototype (1-N, 2-E, 3-Z). Data are lowpass filtered at 2Hz.
 
-*Right picture:*
+*Left picture:*
 Same event. Cross-correlation of the ringlaser data (vertical component of rotation) with the transversal component of acceleration of station GR.FUR. Top subplot shows the bandpass filtered waveforms. The middle subplot shows the CC coefficients for varying backazimuths. The highest coefficients indicate the backazimuth of the event. Bottom subplot shows the phase velocities accociated with CC coefficients higher than 0.75.  Details of processing and theory can be found in e.g. [Hadziioannou et al., 2012](https://www.geophysik.uni-muenchen.de/~hadzii/files/hadzii2012_JoS.pdf).
 
 
@@ -19,8 +19,8 @@ Same event. Cross-correlation of the ringlaser data (vertical component of rotat
 
 <div class="container">
 <div align="center">
- <img src="../images/large_files/BAZ_norcia_ROMY.png" alt="" align="left" style="max-height: 400px; max-width: 500px" />
  <img src="../images/large_files/norcia66_BLUS_ROMY.png" alt="" align="right" style="max-height: 400px; max-width: 500px"/>
+ <img src="../images/large_files/BAZ_norcia_ROMY.png" alt="" align="left" style="max-height: 400px; max-width: 500px" />
 </div>
 </div>
 
