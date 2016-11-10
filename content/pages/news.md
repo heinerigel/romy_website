@@ -19,8 +19,8 @@ Same event. Cross-correlation of the ringlaser data (vertical component of rotat
 
 <div class="container">
 <div align="center">
- <img src="../images/large_files/norcia66_BLUS_ROMY.png" alt="" align="right" style="max-height: 400px; max-width: 500px"/>
  <img src="../images/large_files/BAZ_norcia_ROMY.png" alt="" align="left" style="max-height: 400px; max-width: 500px" />
+ <img src="../images/large_files/norcia66_BLUS_ROMY.png" alt="" align="right" style="max-height: 400px; max-width: 500px"/>
 </div>
 </div>
 

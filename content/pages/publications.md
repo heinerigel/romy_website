@@ -3,17 +3,16 @@ Slug: publications
 Authors: Heiner Igel
 
 ### 2016
-Donner, S., Lin, C.-J., Hadziioannou, C., Gebauer, A., Vernon, F., Agnew, D. C., Schreiber, U. and Wassermann, J., **Comparing direct observation of strain, rotation, and translation with array estimates at Pinon Flat Observatory, California**, in preparation for submission.
-###
-Tanimoto, T., Lin, C.-J., Hadziioannou, C., Igel, H. and Vernon, F., **Estimate of Rayleigh-to-Love wave ratio in secondary microseism by a small array at Pinon flat Observatory, California**, GRL, submitted.
+Donner, S., Lin, C.-J., Hadziioannou, C., Gebauer, A., Vernon, F., Agnew, D. C., Igel, H., Schreiber, U. and Wassermann, J., **Comparing direct observation of strain, rotation, and translation with array estimates at Pinon Flat Observatory, California**, BSSA, submitted.
 ###
 Salvermoser, J., Hadziioannou, C., Hable, S., Krischer, L., Chow, B., Ramos, C., Wassermann, J., Schreiber, U., Gebauer, A. and Igel, H., **An event database for rotational seismology**, SRL, submitted.
 ###
+Tanimoto, T., Lin, C.-J., Hadziioannou, C., Igel, H. and Vernon, F., **Estimate of Rayleigh-to-Love wave ratio in secondary microseism by a small array at Pinon flat Observatory, California**, GRL, doi: [10.1002/2016GL071133](http://onlinelibrary.wiley.com/doi/10.1002/2016GL071133/full).
+###
 Lindner, F., J. Wassermann, M. Schmidt-Aursch, K.U. Schreiber and H. Igel,
-**Sea-floor ground rotation observations: potential for improving
-signal-to-noise ratio on horizontal OBS components**, SRL, submitted.
+**Sea-floor ground rotation observations: potential for improving signal-to-noise ratio on horizontal OBS components**, SRL, doi: [10.1785/0220160051](http://srl.geoscienceworld.org/content/early/2016/10/27/0220160051.full).
 ####
-Reinwald, M., Bernauer, M., Igel, H., and Donner, S., **Improved finite-source inversion through joint measurements of rotational and translational ground motions: A theoretical study**, accepted at Solid Earth, doi: [10.5194/se-2016-67](http://www.solid-earth-discuss.net/se-2016-67/).
+Reinwald, M., Bernauer, M., Igel, H., and Donner, S., **Improved finite-source inversion through joint measurements of rotational and translational ground motions: A theoretical study**, Solid Earth, doi: [10.5194/se-2016-67](http://www.solid-earth-discuss.net/se-2016-67/).
 ###
 Simonelli, A., Belfi, J., Beverini, N., Carelli, G., Di Virgilio, A., Maccioni, E., De Luca, G., and Saccorotti, G., **First deep underground observation of rotational signals from an earthquake at teleseismic distance using a large ring laser gyroscope**, Annals of Geophysics, 59, doi: [10.4401/ag-6970](https://arxiv.org/abs/1601.05960).
 ###
