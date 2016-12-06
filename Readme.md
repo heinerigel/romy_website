@@ -15,6 +15,8 @@ $ pip install markdown
 
 # Install fabric for the deployment
 $ pip install fabric
+# Users of Python 3.X need to install [fabric3](https://pypi.python.org/pypi/Fabric3)
+$ pip install fabric3
 ```
 
 

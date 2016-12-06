@@ -2,6 +2,26 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>November 2016</small> First weak rotational motion measurement of structural health monitoring on a spectacular building
+
+End of November a group from LMU Munich was joining a campaign led by scientists of the [Dipartimento di Scienze della Terra](http://www.dst.unifi.it/), Univercity of Florence, led by Maurizio Ripepe, to measure the eigenvibrations of Gampanile di Giotto, the bells tower of the famous dome of Florence. Using two rotational motion sensors and 9 broadband seismometers the joint group will try to validate resent simulations and measurements performed by civil engineers and the Florence group, respectively.
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/IMG_0015.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/_MG_0006.jpg">
+      </a>
+    </div>
+  </div>
+ </div>
+
+<br>
 
 
 #### <small>26/30th October 2016</small> Data from central Italy
