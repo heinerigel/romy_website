@@ -29,7 +29,9 @@ def regenerate():
 def serve():
     build()
 # SD Dec 2016
+# for Python 2.x
 #    local('cd {deploy_path} && python -m SimpleHTTPServer'.format(**env))
+# for Python 3.x
     local('cd {deploy_path} && python -m http.server'.format(**env))
 
 @hosts(production)

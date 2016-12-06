@@ -2,7 +2,8 @@
 
 ## Installing the Dependencies
 
-Python should already be installed on most systems.
+Python should already be installed on most systems.   
+Users of Python 3.x need to install [fabric3](https://pypi.python.org/pypi/Fabric3) and also adjust a lines 33/35 in the file `fabfile.py`.
 
 
 ```bash
@@ -15,7 +16,6 @@ $ pip install markdown
 
 # Install fabric for the deployment
 $ pip install fabric
-# Users of Python 3.X need to install [fabric3](https://pypi.python.org/pypi/Fabric3)
 $ pip install fabric3
 ```
 
