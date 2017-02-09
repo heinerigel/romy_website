@@ -2,6 +2,56 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>April 2017 </small> Romy at EGU
+
+Again, there will be a special session on *New developments in seismic and geodetic instrumentation (SM 5.2)* at the [EGU General Assembly](http://www.egu2017.eu/) from 23 to 28 April in Vienna. In addition, the members of the Romy group have submitted several contributions related to the ROMY project:
+
+* Schreiber et al. - Integration and initial operation of the multi-component large ring laser structure ROMY (EGU 2017-5628)
+* Gebauer et al. - Design and construction of a large 4C ring laser: ROMY (EGU2 017-10170)
+* Donner et al. - Inversion for seismic moment tensors from 6-component waveform data (EGU 2017-3509)
+* Chow et al. - The development of a rotational magnitude scale (EGU 2017-4064)
+* Joshi et al. - The case for 6-component ground motion observations in planetary seismology (EGU 2017-3840)
+
+<br>
+
+#### <small>February 2017 </small> Romy in MUM
+
+In the latest release of MUM, the journal of the Munich universities, there is a new article on the ROMY project. You can find the article [here](../docs/RomyMumFeb2017.pdf) (in German).
+
+<br>
+
+#### <small>January 2017 </small> Free-riding at the Nagra - 3D seismic in Switzerland
+
+From October 2016 to February 2017 the [Nagra](http://www.nagra.ch), the Swiss company for finding a long-term solution for radioactive waste, performed a [large-scale 3D seismic campaign](http://www.nagra.ch/en/news/mediareleasedetail/large-scale-3d-seismic-campaign-complete.htm). Together with colleagues from ETH Zurich, we used this chance for our own measurements. Four prototypes of the portable rotation sensors from the company [iXblue](www.ixblue.com) were buried in the ground close to Eligsaufor about three weeks  to record the vibration sources of the Nagra experiment. 
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/IMG_2759.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/IMG_2764.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/IMG_2765.jpg">
+      </a>
+    </div>
+  </div>
+ </div>
+
+<br>
+
+#### <small>December 2016 </small> Book launch "Computational Seismology"
+
+Finally, the practical introduction on computational seismology, written by Heiner Igel, is [now available](https://global.oup.com/academic/product/computational-seismology-9780198717416?cc=de&lang=en&). This book is an introductory text to a range of numerical methods used today to simulate time-dependent processes in Earth science, physics, engineering, and many other fields. It also includes simulation methods used in the ROMY project. The theoretical concepts presented in the book are complemented by interactive Jupyter Notebooks at the [seismo-live webpage](seismo-live.org).
+
+<br>
+
 #### <small>November 2016</small> First weak rotational motion measurement of structural health monitoring on a spectacular building
 
 End of November a group from LMU Munich was joining a campaign led by scientists of the [Dipartimento di Scienze della Terra](http://www.dst.unifi.it/), Univercity of Florence, led by Maurizio Ripepe, to measure the eigenvibrations of Gampanile di Giotto, the bells tower of the famous dome of Florence. Using two rotational motion sensors and 9 broadband seismometers the joint group will try to validate resent simulations and measurements performed by civil engineers and the Florence group, respectively.
