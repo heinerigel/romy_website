@@ -14,6 +14,21 @@ Again, there will be a special session on *New developments in seismic and geode
 
 <br>
 
+#### <small>9 February 2017 </small> Romy recorded local earthquake
+
+On February 9th at 08:14 UTC an earthquake with a local magnitude of ML 3.5 occurred close to the Italian city Trento in a depth of about 13km. This is about 300 km of the Romy ringlaser and is the closest earthquake Romy has successfully recorded so far. The figure shows the recording with amplitudes in rad/s. 
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 200px; max-width: 600px" src="../images/news/Trento090217M3.6.png">
+      </a>
+    </div>
+  </div>
+ </div>
+<br>
+
 #### <small>February 2017 </small> Romy in MUM
 
 In the latest release of MUM, the journal of the Munich universities, there is a new article on the ROMY project. You can find the article [here](../docs/RomyMumFeb2017.pdf) (in German).
@@ -22,7 +37,7 @@ In the latest release of MUM, the journal of the Munich universities, there is a
 
 #### <small>January 2017 </small> Free-riding at the Nagra - 3D seismic in Switzerland
 
-From October 2016 to February 2017 the [Nagra](http://www.nagra.ch), the Swiss company for finding a long-term solution for radioactive waste, performed a [large-scale 3D seismic campaign](http://www.nagra.ch/en/news/mediareleasedetail/large-scale-3d-seismic-campaign-complete.htm). Together with colleagues from ETH Zurich, we used this chance for our own measurements. Four prototypes of the portable rotation sensors from the company [iXblue](www.ixblue.com) were buried in the ground close to Eligsaufor about three weeks  to record the vibration sources of the Nagra experiment. 
+From October 2016 to February 2017 the [Nagra](http://www.nagra.ch), the Swiss company for finding a long-term solution for radioactive waste, performed a [large-scale 3D seismic campaign](http://www.nagra.ch/en/news/mediareleasedetail/large-scale-3d-seismic-campaign-complete.htm). Together with colleagues from ETH Zurich, we used this chance for our own measurements. Four prototypes of the portable rotation sensors from the company [iXblue](www.ixblue.com) were buried in the ground close to Eligsau for about three weeks  to record the vibration sources of the Nagra experiment. 
 
  <div class="container">
   <div class="row">

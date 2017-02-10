@@ -2,6 +2,27 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+#### <small>April 2017 </small> Romy at EGU
+
+Again, there will be a special session on *New developments in seismic and geodetic instrumentation (SM 5.2)* at the [EGU General Assembly](http://www.egu2017.eu/) from 23 to 28 April in Vienna. In addition, the members of the Romy group have submitted several contributions related to the ROMY project:
+
+* Schreiber et al. - Integration and initial operation of the multi-component large ring laser structure ROMY (EGU 2017-5628)
+* Gebauer et al. - Design and construction of a large 4C ring laser: ROMY (EGU2 017-10170)
+* Donner et al. - Inversion for seismic moment tensors from 6-component waveform data (EGU 2017-3509)
+* Chow et al. - The development of a rotational magnitude scale (EGU 2017-4064)
+* Joshi et al. - The case for 6-component ground motion observations in planetary seismology (EGU 2017-3840)
+
+We kindly invite you to meet us there.
+<br></br>
+
+#### <small>March 2017 </small> Romy at DGG
+
+At the General Assembly of the Deutsche Geophysikalische Gesellschaft from 27 to 30 March in Potsdam, we will present some preliminary results from the ROMY project. We kindly invite you to meet us there.
+
+* Donner et al. - Inversion for moment tensors including rotational ground motion: the possibility of a single station approach (Session S1, A-184)
+* Donner et al. - Earthquake location including rotational ground motion: a single station approach (Session S1, A-185, poster)
+<br></br>
+
 #### <small>June 2016</small> IWGoRS Meeting, Germany
 
 In 2016 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet. 
