@@ -19,6 +19,7 @@ We kindly invite you to meet us there.
 
 At the General Assembly of the Deutsche Geophysikalische Gesellschaft from 27 to 30 March in Potsdam, we will present some preliminary results from the ROMY project. We kindly invite you to meet us there.
 
+* Gebauer et al. - ROMY: Ein 3D Rotationssensor für Geophysik und Geodäsie (Session S1, A-482)
 * Donner et al. - Inversion for moment tensors including rotational ground motion: the possibility of a single station approach (Session S1, A-184)
 * Donner et al. - Earthquake location including rotational ground motion: a single station approach (Session S1, A-185, poster)
 <br></br>
