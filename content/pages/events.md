@@ -8,6 +8,7 @@ Again, there will be a special session on *New developments in seismic and geode
 
 * Schreiber et al. - Integration and initial operation of the multi-component large ring laser structure ROMY (EGU 2017-5628)
 * Gebauer et al. - Design and construction of a large 4C ring laser: ROMY (EGU2 017-10170)
+* Bernauer et al. - BlueSeis3A - full characterization of a 3C broadband rotational ground motion sensor for seismology (EGU 2017-)
 * Donner et al. - Inversion for seismic moment tensors from 6-component waveform data (EGU 2017-3509)
 * Chow et al. - The development of a rotational magnitude scale (EGU 2017-4064)
 * Joshi et al. - The case for 6-component ground motion observations in planetary seismology (EGU 2017-3840)

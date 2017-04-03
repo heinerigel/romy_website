@@ -14,6 +14,12 @@ Again, there will be a special session on *New developments in seismic and geode
 
 <br>
 
+#### <small>April, 2017 </small> New article in insightLMU
+
+[The international newsletter of the LMU Munich](http://www.en.uni-muenchen.de/news/insightlmu/index.html) has published an article about the ROMY project with the title [A Revolution in Seismology?](http://www.en.uni-muenchen.de/news/insightlmu/2017/insight_01.pdf). 
+
+<br>
+
 #### <small>9 February 2017 </small> Romy recorded local earthquake
 
 On February 9th at 08:14 UTC an earthquake with a local magnitude of ML 3.5 occurred close to the Italian city Trento in a depth of about 13km. This is about 300 km of the Romy ringlaser and is the closest earthquake Romy has successfully recorded so far. The figure shows the recording with amplitudes in rad/s. 
