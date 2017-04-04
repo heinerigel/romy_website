@@ -2,6 +2,14 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>April, 2017 </small> New articles in insightLMU and photonworld
+
+[The international newsletter of the LMU Munich](http://www.en.uni-muenchen.de/news/insightlmu/index.html) has published an article about the ROMY project with the title [A Revolution in Seismology?](http://www.en.uni-muenchen.de/news/insightlmu/2017/insight_01.pdf).
+
+Also, [photonworld](https://photonworld.de/en.html), a platform dedicated to the physics of light, has published an article with the title [Ein Beben-Messer aus Licht](https://photonworld.de/nc/de/magazin/artikel/ein-beben-messer-aus-licht/aseite/1.html) (in German).
+
+<br>
+
 #### <small>April 2017 </small> Romy at EGU
 
 Again, there will be a special session on *New developments in seismic and geodetic instrumentation (SM 5.2)* at the [EGU General Assembly](http://www.egu2017.eu/) from 23 to 28 April in Vienna. In addition, the members of the Romy group have submitted several contributions related to the ROMY project:
@@ -12,12 +20,6 @@ Again, there will be a special session on *New developments in seismic and geode
 * Donner et al. - Inversion for seismic moment tensors from 6-component waveform data (EGU 2017-3509)
 * Chow et al. - The development of a rotational magnitude scale (EGU 2017-4064)
 * Joshi et al. - The case for 6-component ground motion observations in planetary seismology (EGU 2017-3840)
-
-<br>
-
-#### <small>April, 2017 </small> New article in insightLMU
-
-[The international newsletter of the LMU Munich](http://www.en.uni-muenchen.de/news/insightlmu/index.html) has published an article about the ROMY project with the title [A Revolution in Seismology?](http://www.en.uni-muenchen.de/news/insightlmu/2017/insight_01.pdf). 
 
 <br>
 
