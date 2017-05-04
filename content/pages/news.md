@@ -2,6 +2,40 @@ Title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small> April, 2017 </small> blueSeis presented at EGU
+
+For the first time, the new rotational Sensor blueSeis was presented to the public by the company iXblue at the EGU General Assembly in Vienna. It was a big success as the pictures show. For more technical and informational details on the blueseis product line the [new blueseis webpage](www.blueseis.com) was established.
+<br>
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/20170426_150007.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/20170426_150941.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 300px; max-width: 300px" src="../images/large_files/20170426_150545.jpg">
+      </a>
+    </div>
+  </div>
+ </div>
+
+
+<br>
+
+#### <small>April, 2017 </small> Science reports on the "Lord of the rings"
+
+The Science Magazine published an [article](http://science.sciencemag.org/content/356/6335/236.full) about the ROMY ring laser including a fancy graphic of the underground construction. The article is accompanied by a [Youtube video](https://www.youtube.com/watch?v=MXYV6wNdZm8&feature=youtu.be). The video also shows a time-lapse recording of the construction. Very worth to have a look!
+ 
+<br>
+
 #### <small>April, 2017 </small> New articles in insightLMU and photonworld
 
 [The international newsletter of the LMU Munich](http://www.en.uni-muenchen.de/news/insightlmu/index.html) has published an article about the ROMY project with the title [A Revolution in Seismology?](http://www.en.uni-muenchen.de/news/insightlmu/2017/insight_01.pdf).
