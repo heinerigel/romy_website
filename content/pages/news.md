@@ -4,7 +4,8 @@ Authors: Heiner Igel
 
 #### <small> April, 2017 </small> blueSeis presented at EGU
 
-For the first time, the new rotational Sensor blueSeis was presented to the public by the company iXblue at the EGU General Assembly in Vienna. It was a big success as the pictures show. For more technical and informational details on the blueseis product line the [new blueseis webpage](www.blueseis.com) was established.
+For the first time, the new rotational Sensor blueSeis was presented to the public by the company iXblue at the EGU General Assembly in Vienna. It was a big success as the pictures show. For more technical and informational details on the blueseis product line the [new blueseis webpage](http://www.blueseis.com) was established.
+
 <br>
 
  <div class="container">
