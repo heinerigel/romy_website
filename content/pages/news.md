@@ -58,6 +58,12 @@ Again, there will be a special session on *New developments in seismic and geode
 
 <br>
 
+####<small> March 2017 </small> Event Database for Rotational Seismology
+
+Based on recordings of the G-ringlaser and a seismometer station in Wettzell, Bavaria, an [online database](http://ec2-52-59-201-108.eu-central-1.compute.amazonaws.com:8000/) was established granting access to more than 17,000 processed, global events. It offers waveforms and processed plots. The webpage is accessible via the [website of the International Working Group on Rotational Seismology](http://www.rotational-seismology.org) or via our *Links* page. The accompanying paper to this database from Salvermoser et al. (2017) is listed under *Publications*.
+
+<br>
+
 #### <small>9 February 2017 </small> Romy recorded local earthquake
 
 On February 9th at 08:14 UTC an earthquake with a local magnitude of ML 3.5 occurred close to the Italian city Trento in a depth of about 13km. This is about 300 km of the Romy ringlaser and is the closest earthquake Romy has successfully recorded so far. The figure shows the recording with amplitudes in rad/s. 
