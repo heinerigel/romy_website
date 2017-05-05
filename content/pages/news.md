@@ -1,4 +1,4 @@
-Title: News
+title: News
 Slug: news
 Authors: Heiner Igel
 
@@ -57,6 +57,21 @@ Again, there will be a special session on *New developments in seismic and geode
 * Joshi et al. - The case for 6-component ground motion observations in planetary seismology (EGU 2017-3840)
 
 <br>
+
+#### <small> March 2017 </small> Heiner Igel elected into German National Academy of Sciences Leopoldina
+
+In connection with the workshop "Climate  and Energy" held at the German National Academy of Sciences Leopoldina the new elected members in the class of mathematics, natural, and engineering sciences received their certificates in a formal procedure. ROMY principal investigator Heiner Igel is one of the new members.    
+
+ <div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 400px; max-width: 500px" src="../images/large_files/leopoldina.jpg">
+      </a>
+    </div>
+ </div>
+
+ <br>
+
 
 ####<small> March 2017 </small> Event Database for Rotational Seismology
 
