@@ -2,6 +2,10 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+#### <small>July 2017</small> Official Romy inauguration 
+The ROMY ring laser – already featured by a news article in Science (“Lord of the Rings”, Science, Vol. 356, Issue 6335, pp. 236-238, 2017) – will officially be inaugurated on July 21, 2017, in a ceremony to be held at the Monastery Fürstenfeldbruck (“kleiner Saal”) from 11 am. Guest lecturer will be Prof. Dr. Harald Schuh (GFZ Potsdam) speaking about “New roads in modern geodesy”. The presentations will be in German. An invitation can be found [here](../docs/invitation_inauguration.pdf). The event is open to the public! In the afternoon there will be an occasion to visit the ring laser structure at the Geophysical Observatory Fürstenfeldbruck, Ludwigshöhe 8. 
+<br></br>
+
 #### <small>April 2017 </small> Romy at EGU
 
 Again, there will be a special session on *New developments in seismic and geodetic instrumentation (SM 5.2)* at the [EGU General Assembly](http://www.egu2017.eu/) from 23 to 28 April in Vienna. In addition, the members of the Romy group have submitted several contributions related to the ROMY project:
