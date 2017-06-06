@@ -100,6 +100,19 @@ Authors: Heiner Igel
     </div>
 </div>
 
+
+<div class="media">
+<!--    <a class="pull-left" href="#">
+        <img style="max-height: 64px; max-width: 64px" src="../images/people/nader.jpg" alt="Maria-Fernanda Nader-Nieto" class="img-circle media-object">
+    </a>-->
+    <div class="media-body">
+        <h4 class="media-heading">M.A. Friederike Brandthaus - Administratorin (LMU)</h4>
+        <a href="http://www.mineralogie.geowissenschaften.uni-muenchen.de/personen/non_scientific/brandthaus/index.html">Website</a>
+    </div>
+</div>
+
+
+
 <br> </br>
 
 
