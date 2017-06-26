@@ -2,6 +2,15 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+#### <small>December 2016</small> Special session at AGU
+At the AGU in New Orleans from 11-15 December we offer a special session on *GRound translation, strain, rotation: Using Wavefield Gradients for Seismic Applications* (Session ID: 23314). Note that abstract submission is already open. Deadline is  **August2, 2017**.   
+
+Session Description:  
+Substantial recent progress in seismic instrumentation and array technology has opened new roads in using wavefield gradients, strain, and rotation for several seismic applications. Collocated recordings of translation, strain, and rotation provide access to subsurface velocity information, improve the resolution of source inverse problems, help separating seismic phases, and provide information on propagation directions. In addition – due to the sensitivity of classic broadband seismometers to tilt – high quality measurements of ground rotations can remove the ambiguities of horizontal ground motion measurements for example for ocean-bottom recordings or recordings of long-period signals on volcanoes. In this session we invite papers on new developments of seismic instrumentation to access gradient information (e.g., rotation sensors), small scale array measurements and analysis, and applications such as imaging, source inversion, wavefield reconstruction, instrument correction, single station observations in planetary seismology and theoretical developments.  
+Primary Convener: **Heiner Igel**, Ludwig Maximilians University of Munich, Munich, Germany  
+Conveners: **Cedric Schmelzbach**, ETH Zurich, Zurich, Switzerland, **Nori Nakata**, University of Oklahoma Norman Campus, Norman, OK, United States and **Bor-Shouh Huang**, Academia Sinica, Taipei, Taiwan  
+<br></br>
+
 #### <small>July 2017</small> Official Romy inauguration 
 The ROMY ring laser – already featured by a news article in Science (“Lord of the Rings”, Science, Vol. 356, Issue 6335, pp. 236-238, 2017) – will officially be inaugurated on July 21, 2017, in a ceremony to be held at the Monastery Fürstenfeldbruck (“kleiner Saal”) from 11 am. Guest lecturer will be Prof. Dr. Harald Schuh (GFZ Potsdam) speaking about “New roads in modern geodesy”. The presentations will be in German. An invitation can be found [here](../docs/invitation_inauguration.pdf). The event is open to the public! In the afternoon there will be an occasion to visit the ring laser structure at the Geophysical Observatory Fürstenfeldbruck, Ludwigshöhe 8. 
 <br></br>
