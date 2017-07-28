@@ -2,7 +2,65 @@ title: News
 Slug: news
 Authors: Heiner Igel
 
-#### <small> April, 2017 </small> blueSeis presented at EGU
+#### <small> July 2017 </small> ROMY in the press
+
+More and more ROMY gets attention in the press. Here are some articles (all German):  
+
+[Fürstenfeldbrucker Tageblatt](../images/large_files/20170724094256969.pdf)  
+[Kreisbote Fürstenfeldbruck](../images/large_files/20170728145308943_0001.jpg)  
+[SZ 1](http://www.sueddeutsche.de/muenchen/forschungsprojekt-romy-fuehlt-der-erde-den-puls-1.3604647) und [SZ 2](http://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-weltweit-einmaliger-ringlaser-soll-erdbeben-und-vulkanausbrueche-vorhersagen-1.3602434)
+
+<br>
+
+#### <small> July 2017 </small> New bike shirt
+
+Because the most members of the working group are enthusiastic bikers, a new bike shirt is created for each project. Here is the ROMY bike shirt with translational and rotational seismograms of the M8.3 Hokkaido earthquake of 2003. The sleeves are covered with equations from rotational seismology. Get your shirt [here](https://docs.google.com/forms/d/e/1FAIpQLSedMhB7B1S3CzsVXtwT1Iayu2sJzhUoGILIrEo_dF7zcKzOXg/viewform).
+
+<br>
+
+#### <small> 21 July 2017 </small> Offiziell inauguration of ROMY
+
+Finally, in a pleasant celebration at Kloster Fürstenfeldbruck the ringlaser ROMY got officially inaugurated. In the afternoon the guests could visit the observatory.
+
+<br>
+
+#### <small> July 2017 </small> First 3C measurement
+
+For the first time, three out of four rings are running in parallel. The left figure shows the screen of the digital osciloscope. The Sagnac signal coming from the photomultiplier is nicely visible. The middle figure is a 2C recording of the M6.7 Greece event from 20.07.2017 and the right figure shows the 3C recording of the M4 event of Campotosto, Italy, from 22.07.2017.
+
+<br>
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 250px" src="../images/large_files/IMG_20170713_182612.jpg">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 250px" src="../images/news/GRE_M6.7.png">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 300px" src="../images/news/Campotosto_4.0_3C.png">
+      </a>
+    </div>
+  </div>
+ </div>
+
+
+<br>
+
+#### <small> July 2017 </small> New press release by LMU 
+
+In the column "Forschung aktuell" LMU published a new article on the ROMY ringlaser (in German): ["Der richtige Dreh"](http://www.uni-muenchen.de/forschung/news/2017/igel1.html).
+
+<br>
+
+
+#### <small> April 2017 </small> blueSeis presented at EGU
 
 For the first time, the new rotational Sensor blueSeis was presented to the public by the company iXblue at the EGU General Assembly in Vienna. It was a big success as the pictures show. For more technical and informational details on the blueseis product line the [new blueseis webpage](http://www.blueseis.com) was established.
 
@@ -31,7 +89,7 @@ For the first time, the new rotational Sensor blueSeis was presented to the publ
 
 <br>
 
-#### <small>April, 2017 </small> Science reports on the "Lord of the rings"
+#### <small>April 2017 </small> Science reports on the "Lord of the rings"
 
 The Science Magazine published an [article](http://science.sciencemag.org/content/356/6335/236.full) about the ROMY ring laser including a fancy graphic of the underground construction. The article is accompanied by a [Youtube video](https://www.youtube.com/watch?v=MXYV6wNdZm8&feature=youtu.be). The video also shows a time-lapse recording of the construction. Very worth to have a look!
  
