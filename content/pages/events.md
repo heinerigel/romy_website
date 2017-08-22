@@ -2,7 +2,7 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
-#### <small>December 2016</small> Special session at AGU
+#### <small>December 2017</small> Special session at AGU
 At the AGU in New Orleans from 11-15 December we offer a special session on *GRound translation, strain, rotation: Using Wavefield Gradients for Seismic Applications* (Session ID: 23314). Note that abstract submission is already open. Deadline is  **August2, 2017**.   
 
 Session Description:  

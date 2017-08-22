@@ -3,7 +3,11 @@ Slug: publications
 Authors: Heiner Igel
 
 ### 2017
-Donner, S., Lin, C.-J., Hadziioannou, C., Gebauer, A., Vernon, F., Agnew, D. C., Igel, H., Schreiber, U. and Wassermann, J., **Comparing direct observation of strain, rotation, and translation with array estimates at Pinon Flat Observatory, California**, SRL, in press.
+Bernauer, F., Wassermann, J., Guattari, F., Frenois, A., Bigueur, A., Gaillot, A., de Toldi, E., Ponceau, D., Schreiber, U. and Igel, H., **BlueSeis3A - full characterization of a 3C broadband rotational seismometer**, SRL, submitted.
+####
+Schmelzbach, C., Donner, S., Igel, H., Sollberger, H., Taufiqurrahman, T., Bernauer, F., Häusler, M., Van Renterghem, C., Wassermann, J. and Robertsson, J., **Advances in 6-C seismology: Applications of combined translational and rotational measurements in lgobal and exploration seismology**, Geophysics, submitted.
+####
+Donner, S., Lin, C.-J., Hadziioannou, C., Gebauer, A., Vernon, F., Agnew, D. C., Igel, H., Schreiber, U. and Wassermann, J., **Comparing direct observation of strain, rotation, and translation with array estimates at Pinon Flat Observatory, California**, SRL, 88(4):1107-1116, doi: [10.1785/0220160216](http://srl.geoscienceworld.org/content/88/4/1107).
 ####
 Salvermoser, J., Hadziioannou, C., Hable, S., Krischer, L., Chow, B., Wassermann, J., Schreiber, U., Gebauer, A. and Igel, H., **An event database for rotational seismology**, SRL, 88:935-941, doi: [10.1785/0220160184](http://srl.geoscienceworld.org/content/88/3/935).
 

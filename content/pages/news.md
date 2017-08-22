@@ -20,8 +20,50 @@ Because the most members of the working group are enthusiastic bikers, a new bik
 
 #### <small> 21 July 2017 </small> Offiziell inauguration of ROMY
 
-Finally, in a pleasant celebration at Kloster Fürstenfeldbruck the ringlaser ROMY got officially inaugurated. In the afternoon the guests could visit the observatory.
+Finally, in a pleasant celebration at Kloster Fürstenfeldbruck the ringlaser ROMY got officially inaugurated. The [program](../images/news/ROMY-21-7-2017.pdf) started with greetings and continued with interesting talks on the development of ROMY and its applications. About 100 guests enjoyed the event. In the afternoon the guests could visit the observatory.
 
+<br>
+
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 250px" src="../images/large_files/IMG_2461.JPG">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 250px" src="../images/large_files/562A2484.JPG">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 300px" src="../images/large_files/562A2504.JPG">
+      </a>
+    </div>
+  </div>
+   <div class="row">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 250px" src="../images/large_files/562A2362.JPG">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 250px" src="../images/large_files/562A2494.JPG">
+      </a>
+    </div>
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#">
+         <img style="max-height: 250px; max-width: 300px" src="../images/large_files/562A2495.JPG">
+      </a>
+    </div>
+  </div>
+</div>
+ 
+ 
+ 
+ 
 <br>
 
 #### <small> July 2017 </small> First 3C measurement
