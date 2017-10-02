@@ -34,6 +34,16 @@ Authors: Heiner Igel
     </div>
 </div>
 
+<div class="media">
+<!--    <a class="pull-left" href="#">
+        <img style="max-height: 64px; max-width: 64px" src="../images/people/nader.jpg" alt="Maria-Fernanda Nader-Nieto" class="img-circle media-object">
+    </a>-->
+    <div class="media-body">
+        <h4 class="media-heading">Prof. Dr. Celine Hadziioannou (Uni Hamburg)</h4>
+        <a href="https://www.geo.uni-hamburg.de/geophysik/personen/permanente-mitglieder/hadziioannou-celine.html">Website</a>
+    </div>
+</div>
+
 
 <div class="media">
     <a class="pull-left" href="#">
