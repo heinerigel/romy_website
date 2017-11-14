@@ -8,6 +8,13 @@ This year again, we have a special session at AGU in New Orleans. Look for furth
 
 <br>
 
+#### <small> October/November 2017 </small> BlueSeis in the Cathedral of Cologne
+
+Together with scientists from the [Erdbebenstation Bensberg](http://www.seismo.uni-koeln.de/station/index.htm), University of Cologne, led by Klaus Hinzen, three portable rotational motion sensors, one of them BlueSeis3A, were installed in the cathedral of cologne, one of the UNESCO world cultural heritage sites. The sensors were installed together with 3C broadband seismometers on three different stories of the north tower. The aim of this experiment is to observe rotational eigenmodes and the absolute movement of the tower as well as to explore the advantage of 6C measurements for structural engineering applications.
+
+
+<br>
+
 #### <small> October 2017 </small> The ROMY bike shirt cruising around Sardinia
 
 A road bike team wearing the ROMY shirt was cruising around Sardinia in October 2017. Interested in the bike shirt? Please contact heiner.igel@lmu.de
