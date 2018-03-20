@@ -50,8 +50,8 @@ Authors: Heiner Igel
         <img style="max-height: 64px; max-width: 64px" src="../images/people/donner.jpg" alt="Stefanie Donner" class="img-circle media-object">
     </a>
     <div class="media-body">
-        <h4 class="media-heading">Dr. Stefanie Donner (LMU)</h4>
-        <a href="http://www.geophysik.uni-muenchen.de/Members/donner">Website</a>
+        <h4 class="media-heading">Dr. Stefanie Donner (BGR)</h4>
+<!--      <a href="http://www.geophysik.uni-muenchen.de/Members/donner">Website</a> -->
     </div>
 </div>
 
@@ -85,6 +85,14 @@ Authors: Heiner Igel
     <div class="media-body">
         <h4 class="media-heading">Dr. Andre Gebauer (LMU + TUM)</h4>
         <a href="http://www.iapg.bgu.tum.de/Mitarbeiter/Andre_Gebauer">Website</a>
+    </div>
+</div>
+
+<div class="media">
+    <a class="pull-left" href="#">
+	<img style="max-height: 64px; max-width: 64px" src="../images/people/Yuan.jpg" alt="Shihao Yuan" class="img-circle media-object">
+    <div class="media-body">
+        <h4 class="media-heading">Dr. Shihao Yuan (LMU)</h4>
     </div>
 </div>
 

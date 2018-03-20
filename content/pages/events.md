@@ -2,6 +2,33 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+####<small>June 2018</small> Conference on Mathematical Geophysics
+International Union of Geodesy and Geophysics 32nd IUGG Conference on Mathematical Geophysics Nizhny Novgorod, Russia, June 23-28, 2018, with special session on computational seismology organized by H. Igel and A. Ferreira, more details [here](http://cmg2018.iapras.ru/).
+<br></br>
+
+#### <small>April 2018</small> ROMY at EGU 2018
+Again, there will be several presentations from members of the ROMY group at the General Assembly of the EGU 8-13 April in Vienna. Here is an overview.
+
+*Orals - Tue, 10 Apr, 13:30-17:00  Room 2.47*   
+**Progress in Sagnac Interferometry** Karl Ulrich Schreiber, Heiner Igel, Joachim Wassermann, Andrea Simonelli, André Gebauer, Jan Kodet, and Jon-Paul Wells, 13:30  
+**The 6C measurement - laboratory experiments and engineering applications** Felix Bernauer, Joachim Wassermann, Frederic Guattari, Elliot de Toldi, Klaus G. Hinzen, and Heiner Igel, 14:45    
+**Comparison of direct rotational-motion measurements and array-derived rotations during a 3D seismic-exploration campaign - the Rot3D experiment** Cedric Schmelzbach, Mauro Häusler, Heiner Igel, Frédéric Guattari, Joachim Wassermann, David Sollberger, Cédéric Van Renterghem, Alexandre Bigueur, and Johan Robertsson, 15:30    
+
+*Poster - Tue, 10 Apr, 17:30-19:00, Hall X2*   
+**Performance and capability of the large 4C ring laser: ROMY** André Gebauer, Ulrich Schreiber, Heiner Igel, Stefanie Schwarz, Stefanie Donner, Céline Hadziioannou, Felix Bernauer, Sven Egdorf, Joachim Wassermann, and Andrea Simonelli, X2.461  
+**Analysis of multi-site and multi-components earthquake-generated rotational ground motion: from tele-seismic to local distances** Andreino Simonelli, Ulrich Schreiber, Heiner Igel, Joachim Wassermann, Andrè Gebauer, Felix Bernauer, Angela Di Virgilio, Jacopo Belfi, and Nicolò Beverini, X2.464  
+<br></br>
+
+#### <small>March 2018</small> Mini-workshop in Rotational Seismology at INGV Rome
+A Mini-workshop on Rotational Seismology is being held at INGV Rome on March 16. Heiner Igel, Joachim Wassermann, and Ulrich Schreiber will present on recent progress of ring lasers and portable rotation sensors. This is complemented by presentations by ROMY collaborators in PISA as well as the PISA group working on seismic decoupling of gravitational wave detectors. Presentations are on [youtube](https://youtu.be/oUcVbZKRQfk).
+<br></br>
+
+
+#### <small>March 2018</small> Munich Winter School „Skience“ on 6C data analysis
+For the first time a training school will focus on the analysis of 6C ground motions. The workshop is organized with the group of ETH Zurich (Prof J. Robertsson and C. Schmelzbach). More information can be found [here]( https://www.geophysik.uni-muenchen.de/MESS/2018).
+<br></br>
+
+
 #### <small>December 2017</small> Special session at AGU
 At the AGU in New Orleans from 11-15 December we offer a special session on *GRound translation, strain, rotation: Using Wavefield Gradients for Seismic Applications* (Session ID: 23314). Note that abstract submission is already open. Deadline is  **August 2, 2017**.  In total, the **[Romy group presents 11 contribution](../docs/AbstraktListe.pdf)** within this and other sessions. 
 
