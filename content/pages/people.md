@@ -90,9 +90,11 @@ Authors: Heiner Igel
 
 <div class="media">
     <a class="pull-left" href="#">
-	<img style="max-height: 64px; max-width: 64px" src="../images/people/Yuan.jpg" alt="Shihao Yuan" class="img-circle media-object">
+	<img style="max-height: 64px; max-width: 64px" src="../images/people/yuan.jpg" alt="Shihao Yuan" class="img-circle media-object">
+    </a>
     <div class="media-body">
         <h4 class="media-heading">Dr. Shihao Yuan (LMU)</h4>
+<!--      <a href="http://www.geophysik.uni-muenchen.de/Members/donner">Website</a> -->
     </div>
 </div>
 
