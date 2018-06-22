@@ -3,11 +3,15 @@ Slug: publications
 Authors: Heiner Igel
 
 ### 2018
-Bernauer, F., Wassermann, J., Guattari, F., Frenois, A., Bigeur, A., Gaillot, A., de Toldi, E., Ponceau, D., Schreiber, U. and Igel, H., **BlueSeis3A: Full Characterization of a 3C Broadband Rotational Seismometer**, SRL, doi: [10.1785/0220170143](https://pubs.geoscienceworld.org/ssa/srl/article/525826/blueseis3a-full-characterization-of-a-3c-broadband).
+Fichtner, A., van Herwaarden, D.P., Afanasiev, M., Simute, S., Krischer, L., Cubuk-Sabuncu, Y., Taymaz, T., Colli, L., Saygin, E., Villasenor, A., Trampert, J., Cupillard, P., Bunge, H.P. and Igel, H., **The Collaborative Seismic Earth Model: Generation 1**, GRL, doi: [10.1029/2018GL077338](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL077338).
+####
+Krischer, C., Fichtner, A., Boehm, C. and Igel, H., **Automated Large‐Scale Full Seismic Waveform Inversion for North America and the North Atlantic**, Solid Earth, doi: [10.1029/2017JB015289](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JB015289).
+####
+Bernauer, F., Wassermann, J., Guattari, F., Frenois, A., Bigeur, A., Gaillot, A., de Toldi, E., Ponceau, D., Schreiber, U. and Igel, H., **BlueSeis3A: Full Characterization of a 3C Broadband Rotational Seismometer**, SRL, 89(2A):620-629, doi: [10.1785/0220170143](https://pubs.geoscienceworld.org/ssa/srl/article/525826/blueseis3a-full-characterization-of-a-3c-broadband).
+#### 
+Schmelzbach, C., Donner, S., Igel, H., Sollberger, H., Taufiqurrahman, T., Bernauer, F., Häusler, M., Van Renterghem, C., Wassermann, J. and Robertsson, J., **Advances in 6-C seismology: Applications of combined translational and rotational measurements in lgobal and exploration seismology**, Geophysics, 83(3):WC53-WC69,doi: [10.1190/GEO2017-0492.1](https://library.seg.org/doi/abs/10.1190/geo2017-0492.1).
 
 ### 2017
-Schmelzbach, C., Donner, S., Igel, H., Sollberger, H., Taufiqurrahman, T., Bernauer, F., Häusler, M., Van Renterghem, C., Wassermann, J. and Robertsson, J., **Advances in 6-C seismology: Applications of combined translational and rotational measurements in lgobal and exploration seismology**, Geophysics, submitted.
-####
 Donner, S., Lin, C.-J., Hadziioannou, C., Gebauer, A., Vernon, F., Agnew, D. C., Igel, H., Schreiber, U. and Wassermann, J., **Comparing direct observation of strain, rotation, and translation with array estimates at Pinon Flat Observatory, California**, SRL, 88(4):1107-1116, doi: [10.1785/0220160216](http://srl.geoscienceworld.org/content/88/4/1107).
 ####
 Salvermoser, J., Hadziioannou, C., Hable, S., Krischer, L., Chow, B., Wassermann, J., Schreiber, U., Gebauer, A. and Igel, H., **An event database for rotational seismology**, SRL, 88:935-941, doi: [10.1785/0220160184](http://srl.geoscienceworld.org/content/88/3/935).
