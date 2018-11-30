@@ -2,6 +2,184 @@ title: News
 Slug: news
 Authors: Heiner Igel
 
+#### <small>November  2018</small> Meeting with iXBlue at the Geophysical Observatory Fürstenfeldbruck
+
+Frederic Guattari and his team from the  [iXblue company](http://www.ixblue.com), France, visited us November 28. 
+We discussed the status of the [blueSeis](http://www.ixblue.com)
+family of sensors, recent laboratory and field observations and future cooperation. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/obs1.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/obs2.jpg">
+      </a>
+    </div>
+</div>
+
+#### <small>November  2018</small> Mirror change of one of the ring lasers
+
+Under the guidance of Dr. Andre Gebauer a number of operations have been carried out at the ring laser. 
+These include gas changes and the change of a mirror in the one ring laser that suffered from a leak. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/ringlaser_mirror1.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/ringlaser_mirror2.jpg">
+      </a>
+    </div>
+</div>
+
+####<small>November 2018</small> Invited talks at Meetings on the Future of Seismic Instrumentation
+
+Joachim Wassermann and Heiner Igel gave invited talks on the use of portable rotation sensors in seismology 
+in Potsdam (Workshop European seismology at the frontier: new capabilities and techniques, November 21-23)and 
+Edinburgh (Future of passive seismic acquisition, November 12-13), respectively. <br></br>
+
+#### <small>October  2018</small> Visit to Taiwan: Invited talks, Measurements in Taipei 101, Exploring Venue for IGWoRS Meeting 2019
+Data
+Joachim Wassermann and Heiner Igel visited Academia Sinica in Taipei, Taiwan, early October. Two invited talks covered ROMY related 
+research on ring laser developments and observations and new portable sensor blueSeis. One blueSeis sensor was recovered from 
+the Taipei 101 tower with a height of over 500m one of the tallest buildings on Earth. Data were collected to explore opportunities for 
+blueSeis in earthquake engineering. 
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/tw101_4.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/tw101_3.jpg">
+      </a>
+    </div>
+</div>
+
+Furthermore we explored several options and chose the specific venue for the 5th Meeting of the working group on rotational 
+seismology that will be held at Sun Moon Lake in Taiwan in September 2019. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/sunmoon.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/tw_forest.jpg">
+      </a>
+    </div>
+</div>
+
+#### <small>September  2018</small> Field observations with blueSeis at Stromboli volcano
+
+Joachim Wassermann, Felix Bernauer, Thomas Braun and other performed new field observations at Stromboli volcano, 
+one of the most active volcanoes in Europe. The team was accompanied by photographer/journalist Robert Gongoll. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/stromboli1.jpg">
+      </a>
+    </div>
+</div>
+
+####<small>September 2018</small> Invited talk at the Institut de Physique du Globe on Paris
+
+... reporting recent progress in the field or rotational seismology ... 
+<br></br>
+
+#### <small>July 2018</small> Andrea Simonelli defends his PhD in Pisa, visit to future OBS site in Cinque Terre
+
+Andrea Simonelli obtained a joint PhD degree from the universities of Pisa and LMU on rotational seismology entitled "Earthquake-induced
+rotational ground motion observed by optical rotational sensors". Half of his PhD was financed by the ROMY project. 
+He worked on the first earthquake-induced wavefield observations with the blueSeis sensor.  
+
+
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/pisa2.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/pisa.jpg">
+      </a>
+    </div>
+</div>
+
+Following the dissertation, we visited the site of the new ocean-bottom test facility near Corniglia, Cinque Terre. 
+The 6 DoF OBS test system that is developed with Prof. Hadziioannou (Univ. of Hamburg) is scheduled to be installed early 2019.
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/cinque1.jpg">
+      </a>
+    </div>
+</div>
+
+####<small>July 2018</small> H2020 proposal to adapt blueSeis to planetary applications successful!
+
+The H2020 proposal PIONEER (Planetary Instruments based on Optical technologies for an iNnovative European Exploration using Rotational Seismology) submitted in March to the European Union was successful! 
+The project involves iXblue, ETH Zurich, IPG Paris and other universities and is coordinated by 
+Raphael Garcia (Toulouse, France). The project will start January 2019. LMU is leading one of the work packages. 
+<br></br>
+
+####<small>July 2018</small> blueSeis sensor installed near the erupting Kilauea crater
+
+The Big Island Hawaii saw a dramatic volcanic crisis during the summer of 2018. To demonstrate the 
+potential of observing the complete ground motion in the near field of seismic/volcanic sources J. Wassermann 
+- in cooperation with Brian Shiro - installed a blueSeis rotation sensor near the erupting crater returning spectacular data for 
+almost daily M5 seismic events due to the collapse of the caldera.  
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/hawaii.jpg">
+      </a>
+    </div>
+</div>
+
+<br></br>
+
+####<small>May 2018</small> Launch of the INSIGHT Mars Mission
+
+On May 5th the INSIGHT mission to Mars was successfully launched from the Vandenberg Air Base in California. 
+The mission will have components or rotational seismology in the sense that attempts will be made to 
+use the 6 translational sensors to derive rotational motions. The lander touched down on November 26th. 
+ROMY is involved with the INSIGHT Team in connection with the H2020 Pioneer project that aims at 
+developing a 6 DoF sensor for planetary applications. (Photo courtesy and copyright Simon Stähler)
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/insight.jpg">
+      </a>
+    </div>
+</div>
+
+<br></br>
+
+
 ####<small>March 2018</small> The Munich Winter School “Skience” for the first time on 6C concepts
 
 36 participants from all over the world (South Corea, Israel, Venezuela, Indonesia, etc.) participated in the [8th Winterschool in Sudelfeld](https://www.geophysik.uni-muenchen.de/MESS/2018), enjoying the exciting new concepts on 6C polarization analysis presented by the ETH group (Schmelzbach, Sollberger, Renterghem), homogenization and gradients (Univ Nantes, Capdeville), and theories to optimize experiments (Curtis, Univ. Edinburgh). This was complemented by Python/ObsPy Intro and array analysis (Wassermann), general aspects of rotational seismology (Igel), and portable rotation sensor technology (Bernauer). The participants also enjoy the skiing aspects of the “Skience” concept!
@@ -27,10 +205,26 @@ Authors: Heiner Igel
 </div>
 <br></br>
 
+
+
 #### <small>March 2018</small> BlueSeis is going into space! New H2020 proposal submitted!
 
 The ROMY scientists have promoted for some time that the 6C measurement concept is particularly interesting for planetary observations. LMU is involved in a new proposal called PIONEERS under the H2020 call “Scientific instrumentation and technologies enabling space science and exploration” aiming at the development of an optical technology based 6C sensor concept for space. The project shall be coordinated by Institut Superieur de l’Aeoronautique et de l‘ Espace in France and involves IPG Paris, ETH Zurich, and iXblue.
 <br></br>
+
+#### <small>February 2018</small> Invited lectures and short course in the US
+
+Heiner Igel gave invited lectures at the University in Austin, Texas, and at the Colorado School of Mines in Golden, 
+including a short course in the field of computational seismology. In Austin he had the 
+opportunity to meet with Prof. Nakamura, the pioneer of lunar seismology. 
+<br></br>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/nakamura.jpg">
+      </a>
+    </div>
+</div>
 
 ####<small>January 2018</small> EU-Training Network Proposal submitted
 
@@ -49,7 +243,7 @@ BlueSeis had its first appearance at an AGU Fall Meeting in 2018! iXBlue organiz
       </a>
     </div>
     <div class="col-lg-3">
-      <a class="thumbnail" href="#">
+       <a class="thumbnail" href="#">
          <img style="max-height: 200px; max-width: 200px" src="../images/news/agu17_diner.jpg">
       </a>
     </div>

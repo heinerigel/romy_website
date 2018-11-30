@@ -2,6 +2,18 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+#### <small>September 2019</small> IWGoRS Meeting, Taiwan
+In 2019 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet for their 5th workshop in Sun Moon Lake, Taiwan. The workshop is c-organized 
+with the Academia Sinica at Taipei. 
+<br></br>
+
+#### <small>April 2019</small> ROMY at EGU 2019
+Again, there will be several presentations from members of the ROMY group at the General Assembly of the EGU 7-12 April 2019 in Vienna. 
+
+#### <small>February 2019</small> Munich Winter School „Skience“ on Machine Learning
+For the first time a training school will focus on Machine Learning in geophysics. The workshop is organized with the group of ETH Zurich (Lion Krischer). More information can be found [here]( https://www.geophysik.uni-muenchen.de/MESS/2019).
+<br></br>
+
 ####<small>June 2018</small> Conference on Mathematical Geophysics
 International Union of Geodesy and Geophysics 32nd IUGG Conference on Mathematical Geophysics Nizhny Novgorod, Russia, June 23-28, 2018, with special session on computational seismology organized by H. Igel and A. Ferreira, more details [here](http://cmg2018.iapras.ru/).
 <br></br>

@@ -3,6 +3,12 @@ Slug: publications
 Authors: Heiner Igel
 
 ### 2018
+Chow, B., J. Wassermann,B. Schuberth, C. Hadziiannou, S. Donner, and H. Igel, ** Love wave amplitude decay from rotational ground motions**Geophys. J. Int., submitted. 
+####
+Simonelli A., H. Igel, J. Wassermann, J. Belfi, A. Di Virgilio, N. Beverini, G. De Luca, ** Rotational motions from the 2016, Central Italy seismic sequence, as observed by an underground ring laser gyroscope  **, Geophysical Journal International, Volume 214, Issue 1, 1 July 2018, Pages 705–715, doi: [10.1093/gji/ggy186](https://academic.oup.com/gji/article-abstract/214/1/705/4993544?redirectedFrom=fulltext)
+####
+Krischer et al., **seismo-live: An Educational Online Library of Jupyter Notebooks for Seismology**, Seismological Research Letters Volume: 89 Issue: 6 Pages: 2413-2419, doi: [10.1785/0220180167](https://pubs.geoscienceworld.org/ssa/srl/article-pdf/89/6/2413/4536680/srl-2018167.1.pdf)
+####
 Fichtner, A., van Herwaarden, D.P., Afanasiev, M., Simute, S., Krischer, L., Cubuk-Sabuncu, Y., Taymaz, T., Colli, L., Saygin, E., Villasenor, A., Trampert, J., Cupillard, P., Bunge, H.P. and Igel, H., **The Collaborative Seismic Earth Model: Generation 1**, GRL, doi: [10.1029/2018GL077338](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL077338).
 ####
 Krischer, C., Fichtner, A., Boehm, C. and Igel, H., **Automated Large‐Scale Full Seismic Waveform Inversion for North America and the North Atlantic**, Solid Earth, doi: [10.1029/2017JB015289](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JB015289).

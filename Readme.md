@@ -40,7 +40,7 @@ commands:
 $ fab build
 ```
 
-Creates the final HTML files in the `output/` subdirectory.
+Creates the final HTML filefab buils in the `output/` subdirectory.
 
 ```bash
 $ fab clean
