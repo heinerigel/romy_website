@@ -12,7 +12,6 @@ The 10th Skience Winter School will be held in Sudelfeld Feb 16-21, 2020 focusin
 also including multi-component ground motion observations. More info at [Skience](http://www.skience.de).
 <br></br>
 
-
 #### <small>December 2019</small> AGU Fall Meeting, San Francisco
 Another special session on translation, rotation, and strain is scheduled to take place at the 
 100th AGU fall Meeting in 2019, Dec 9-13. More info at [AGU](http://www.agu.org).
@@ -27,7 +26,8 @@ F. Bernauer leads the efforts with co-organizers ETH Zürich (A. Fichtner, C. Sc
 <br></br>
 
 #### <small>September 2019</small> IWGoRS Meeting, Taiwan
-In 2019 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet for their 5th workshop in Sun Moon Lake, Taiwan. The workshop is c-organized 
+In 2019 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) 
+will meet for their 5th workshop in Sun Moon Lake, Taiwan, September . The workshop is c-organized 
 with the Academia Sinica at Taipei. 
 <br></br>
 
