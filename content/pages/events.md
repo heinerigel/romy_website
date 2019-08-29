@@ -2,9 +2,39 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
+#### <small>March 2020</small> Meeting of the German Geophysical Society, Munich
+Munich Geophysics is organizing the DGG Meeting March 22-26, 2020. One of the featured topics
+ is the role of observatories and new instrumentation. 
+<br></br>
+
+#### <small>February 2020</small> 10th Skience Winter School, Sudelfeld
+The 10th Skience Winter School will be held in Sudelfeld Feb 16-21, 2020 focusing on inverse problems, 
+also including multi-component ground motion observations. More info at [Skience](http://www.skience.de).
+<br></br>
+
+
+#### <small>December 2019</small> AGU Fall Meeting, San Francisco
+Another special session on translation, rotation, and strain is scheduled to take place at the 
+100th AGU fall Meeting in 2019, Dec 9-13. More info at [AGU](http://www.agu.org).
+<br></br>
+
+#### <small>November 2019</small> Active 6C experiment, Munich
+Between 18-22 November 2019 we organize an active experiment to test fibre-optic gyros and other 
+rotation sensors as well as DAS (distributed acoustic sensing) systems in a unique experiment. 
+Rotation and strain sensors will be placed in the vicinity of the ROMY ring laser and combined 
+with a geophone array. As sources we will use a vibrator truck and small explosive sources. 
+F. Bernauer leads the efforts with co-organizers ETH Zürich (A. Fichtner, C. Schmelzbach), BGR Hannover (S. Donner), Univ. Potsdam (E. Eibl), and Univ. Freiberg (S. Buske).
+<br></br>
+
 #### <small>September 2019</small> IWGoRS Meeting, Taiwan
 In 2019 the [International Working Group on Rotational Seismology](http://www.rotational-seismology.org) will meet for their 5th workshop in Sun Moon Lake, Taiwan. The workshop is c-organized 
 with the Academia Sinica at Taipei. 
+<br></br>
+
+#### <small>September 2019</small> Invited Talks in Petropavlovsk, Kamchatka
+J. Wassermann and H. Igel are both invited to give talks at a volcano seismology 
+Meeting organized by Prof. N. Shapiro (IPG Paris) in Petropavlovsk September 9-10, 2019, 
+followed by a 3 day field trip to the volcanic area. 
 <br></br>
 
 #### <small>April 2019</small> ROMY at EGU 2019
