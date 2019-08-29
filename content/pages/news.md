@@ -88,6 +88,32 @@ Options were discussed to have the new instruments to be developped beinbg part 
     </div>
 </div>
 
+### <small>February  2019</small> blueSeis Meeting at ETH Zurich
+
+Thanks to Dr. Cedric Schmelzbach a Meeting was held at ETH on February 5 discussing the state of the art of fibre-optic technology applied 
+to rotational ground motion observations and science cases. 
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/eth1.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/eth2.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/eth3.jpg">
+      </a>
+    </div>
+</div>
+
 
 
 #### <small>January 2019</small> EU Project PIONEERS starts
