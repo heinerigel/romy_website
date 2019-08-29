@@ -2,6 +2,93 @@ title: News
 Slug: news
 Authors: Heiner Igel
 
+### <small>August  2019</small> blueSeis huddle test in the Observatory Fürstenfeldbruck
+
+German users of the blueSeis-3A sensor met at the observatory to perform a huddle test with the rotation sensors. 
+In such a test sensors are collocated and the data compared to investigate the level of coherence. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/huddle.jpg">
+      </a>
+    </div>
+</div>
+
+### <small>July  2019</small> PIONEERS project meeting in Paris
+
+A 2-day plenary project meeting was held in Paris July 1-2. The meeting focused in particular on the technical requirements for planetary science cases using 6C sensors. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/pioneers_paris.jpg">
+      </a>
+    </div>
+</div>
+
+#### <small>June 2019</small> GIOTTO project funded by the German Ministry of Research! 
+
+A joint proposal with the Univ of Hamburg and the Bundesanstalt für Materialprüfung (BAM) in Berlin was successful! The project is called GIOTTO and 
+aims at adapting the 6C sensor strategy for earthquake engineering. It will involve instrumenting test structures, new and historic buildings with 
+6C sensors and develop a new structural health  monitoring strategy. 
+
+### <small>April  2019</small> EGU 2020 in Vienna: Special Session, iXblue Reception, ROMY dinner
+
+Again we organized a well-attended special session on new instrumentation. iXblue organized a reception at the top of Vienna tower, that was rounded off by a joint ROMY dinner. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/egu1.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/egu2.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/egu3.jpg">
+      </a>
+    </div>
+</div>
+
+
+#### <small>March and June 2019</small> Visiting professor at IPG Paris
+
+Heiner Igel spent twice two weeks at the Institut du Physique du Globe in Paris to with Jean-Paul Montagner on the theory of rotational ground motions in anisotropic media. 
+
+### <small>April  2019</small> Y. Gao visits Munich for 6 months
+
+Y. Gao from  Institute of Geology and Geophysics, Chinese Academy of Sciences (IGGCAS) visits us and will work on simulating 6C motions in buildings using the salvus software. 
+
+#### <small>March  2019</small> PIONEERS Kick-off meeting in Toulouse
+
+The PIONEERS project was kicked off with a 2-day meeting in Toulouse March 7-8. 
+Options were discussed to have the new instruments to be developped beinbg part of already planned planetary missions (e.g., the MMX mission to Phobos to be launched in 2024). 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/pioneers.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/garcia.jpg">
+      </a>
+    </div>
+</div>
+
+
 
 #### <small>January 2019</small> EU Project PIONEERS starts
 
@@ -93,6 +180,12 @@ seismology that will be held at Sun Moon Lake in Taiwan in September 2019.
       </a>
     </div>
 </div>
+
+#### <small>September 2018</small> ROMY Follow-UP project funded by the German Research Foundation starts!
+
+Andre Gebauer, previous postdoc of the ROMY project has successfully obtained a DFG project entitled "Omega-E: 
+Establishing the instantaneous Earth rotation vector by inertial rotation sensing" with the aim 
+to develop a scheme to stabilize the ring laser geometry. 
 
 #### <small>September  2018</small> Field observations with blueSeis at Stromboli volcano
 

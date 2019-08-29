@@ -2,9 +2,20 @@ Title: Publications
 Slug: publications
 Authors: Heiner Igel
 
-### 2018
-Chow, B., J. Wassermann,B. Schuberth, C. Hadziiannou, S. Donner, and H. Igel, ** Love wave amplitude decay from rotational ground motions**Geophys. J. Int., submitted. 
+### 2019
 ####
+Gebauer A., M. Tercjak, K. U. Schreiber, J. Kodet U. Hugentobler,
+H. Igel, J. Wassermann F. Bernauer, C. J. Lin , S. Egdorf,
+A. Simonelli and J.-P. R. Wells, **All Optical Reconstruction of the Instantaneous Earth
+Rotation Vector from a Large Scale Laser Gyroscopic Array**, submitted.
+####
+Singh, S., Y. Capdeville, H. Igel, **Correcting wavefield gradients for the effects of local small-scale heterogeneities**, Geophys. J. Int., accepted for publication. 
+####
+J. Wassermann, F. Bernauer, B. Shiro, I. Johanson, H. Igel, and F. Guattari,** Six Axis Measurements at an Active Volcano - More Data, More Puzzles?**, in preparation.
+####
+Chow, B., J. Wassermann,B. Schuberth, C. Hadziiannou, S. Donner, and H. Igel, ** Love wave amplitude decay from rotational ground motions** Geophysical Journal International, Volume 218, Issue 2, August 2019, Pages 1336–1347, https://doi.org/10.1093/gji/ggz213
+
+### 2018
 Simonelli A., H. Igel, J. Wassermann, J. Belfi, A. Di Virgilio, N. Beverini, G. De Luca, ** Rotational motions from the 2016, Central Italy seismic sequence, as observed by an underground ring laser gyroscope  **, Geophysical Journal International, Volume 214, Issue 1, 1 July 2018, Pages 705–715, doi: [10.1093/gji/ggy186](https://academic.oup.com/gji/article-abstract/214/1/705/4993544?redirectedFrom=fulltext)
 ####
 Krischer et al., **seismo-live: An Educational Online Library of Jupyter Notebooks for Seismology**, Seismological Research Letters Volume: 89 Issue: 6 Pages: 2413-2419, doi: [10.1785/0220180167](https://pubs.geoscienceworld.org/ssa/srl/article-pdf/89/6/2413/4536680/srl-2018167.1.pdf)
@@ -16,6 +27,10 @@ Krischer, C., Fichtner, A., Boehm, C. and Igel, H., **Automated Large‐Scale Fu
 Bernauer, F., Wassermann, J., Guattari, F., Frenois, A., Bigeur, A., Gaillot, A., de Toldi, E., Ponceau, D., Schreiber, U. and Igel, H., **BlueSeis3A: Full Characterization of a 3C Broadband Rotational Seismometer**, SRL, 89(2A):620-629, doi: [10.1785/0220170143](https://pubs.geoscienceworld.org/ssa/srl/article/525826/blueseis3a-full-characterization-of-a-3c-broadband).
 #### 
 Schmelzbach, C., Donner, S., Igel, H., Sollberger, H., Taufiqurrahman, T., Bernauer, F., Häusler, M., Van Renterghem, C., Wassermann, J. and Robertsson, J., **Advances in 6-C seismology: Applications of combined translational and rotational measurements in lgobal and exploration seismology**, Geophysics, 83(3):WC53-WC69,doi: [10.1190/GEO2017-0492.1](https://library.seg.org/doi/abs/10.1190/geo2017-0492.1).
+####
+Donner, S., C. Hadziioannou, and H. Igel (2018), **Retrieval of the seismic moment tensor from joint measurements of translational and rotational ground motions: 
+sparse networks and singel stations**, in Moment Tensor Solutions - A Useful Tool for Seismotectonics, edited by Sebastiano D'Amico, Springer.
+
 
 ### 2017
 Donner, S., Lin, C.-J., Hadziioannou, C., Gebauer, A., Vernon, F., Agnew, D. C., Igel, H., Schreiber, U. and Wassermann, J., **Comparing direct observation of strain, rotation, and translation with array estimates at Pinon Flat Observatory, California**, SRL, 88(4):1107-1116, doi: [10.1785/0220160216](http://srl.geoscienceworld.org/content/88/4/1107).
