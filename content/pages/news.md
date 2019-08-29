@@ -2,6 +2,12 @@ title: News
 Slug: news
 Authors: Heiner Igel
 
+
+#### <small>January 2019</small> EU Project PIONEERS starts
+
+The H2020 funded project PIONEERS (Planetary Instruments based on Optical technologies for an iNnovative European Exploration using Rotational Seismology) starts. 
+The aim is to build on the collaboration with iXblue to adapt the blueSeis-3A technology for applications in planetary geophysics. 
+
 #### <small>November  2018</small> Meeting with iXBlue at the Geophysical Observatory Fürstenfeldbruck
 
 Frederic Guattari and his team from the  [iXblue company](http://www.ixblue.com), France, visited us November 28. 
