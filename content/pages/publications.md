@@ -4,6 +4,8 @@ Authors: Heiner Igel
 
 ### 2019
 ####
+Gessele K., S. Yuan, A. Gabriel, D. May, H. Igel, **Rupture Tracking with 6 DoF Ground Motion Observations: A Synthetic Study**, in preparation. 
+####
 Gebauer A., M. Tercjak, K. U. Schreiber, J. Kodet U. Hugentobler,
 H. Igel, J. Wassermann F. Bernauer, C. J. Lin , S. Egdorf,
 A. Simonelli and J.-P. R. Wells, **All Optical Reconstruction of the Instantaneous Earth

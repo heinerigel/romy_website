@@ -15,6 +15,28 @@ In such a test sensors are collocated and the data compared to investigate the l
     </div>
 </div>
 
+#### <small>March  2019</small> First installation of blueSeis-3A sensor in Greenland
+
+Joachim Wassermann spent 4 weeks in Greenland in a joint experiment with the group of Prof. Fabian Walter (glaciology, ETH Zurich). 
+The goal was to record motion of a fast moving glacier and to investigate whether the measurement of rotational motions can help 
+solving science questions around the movement and characteristics of glaciers. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/groenland1.jpg">
+      </a>
+    </div>
+</div>
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/groenland2.jpg">
+      </a>
+    </div>
+</div>
+
+
 ### <small>July  2019</small> PIONEERS project meeting in Paris
 
 A 2-day plenary project meeting was held in Paris July 1-2. The meeting focused in particular on the technical requirements for planetary science cases using 6C sensors. 
