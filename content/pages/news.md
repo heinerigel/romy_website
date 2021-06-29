@@ -2,10 +2,193 @@ title: News
 Slug: news
 Authors: Heiner Igel
 
+### <small>June 2021</small> Andreas Brotzer wins PAROS fellowship of the American Geophysical Union 
+
+Andreas Brotzer, PhD student working on the ROMY ring laser has obtained a 5000$ scholarshop 
+from the American Geophysical Union! Congratulations!
+
+The Paros Scholarships in Geophysical Instrumentation were established through 
+the generosity of Jerome M. Paros to support graduate students with a demonstrated 
+interest in geophysical instrumentation and precise field measurements in seismology, 
+atmospheric sciences, or ocean sciences. This $5000 scholarship is awarded to three 
+students each year to help build a solid pool of talent working on and interested 
+in geophysical instrumentation.
+
+Andreas will spend the money visiting SCRIPPS to develop concepts using strain measurements 
+to stabilize the ROMY observations for geodetical (and seismological) observations.  
+
+### <small>June 2021</small> Special Issue in "Sensors" 
+
+19 papers are now published in the special issue "Rotation Rate Sensors and Their Applications" that was initiated 
+at the last meeting of the International Working Group on Rotational Seismology in Taiwan in 2019.
+
+The papers also featuring ROMY and blueSeis3A data are accessible here:
+[Special Issue](https://www.mdpi.com/journal/sensors/special_issues/Rotatin_Rate_Sensors)
+
+### <small>January 2021</small> Paper on ROMY in Geophysical Journal International
+
+The paper "ROMY: a multicomponent ring laser for geodesy and geophysics" is now published. 
+It focuses on the design process and first seismological observations. 
+The paper is accessible [here](https://academic.oup.com/gji/article/225/1/684/6064309)
+
+### <small>February 2021</small> Five broadband sensors from Taiwan arrive 
+
+Through our former researcher Chin-Jen Lin we could arrange five STS2 broadband stations that we obtain on loan from Academia 
+Sinica in a joint project. The seismometers support our seismic array around the ROMY ring laser helping to cross-validate our 
+observations. 
+
+### <small>October 2020</small> Experiment with blueSeis3A on a model bridge
+
+A first unique experiment was carried out on a model bridge at the BAM testing facilities. Watch youtube movie!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szYqnmuEoNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### <small>July  2020</small> "Editor's Highlight" in PRL: PAper on ROMY
+
+The paper "Reconstruction of the Instantaneous Earth Rotation Vector with Sub-Arcsecond Resolution 
+Using a Large Scale Ring Laser Array" was features in Editor's Highlight and featured in many pupular science 
+news article! The paper focuses on the impact of ROMY on measuring Earth's rotation. 
+The paper is accessible [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.033605)
+
+### <small>May  2020</small> Andreas Brotzer joins the ROMY project!
+
+Andreas Brotzer, MSc from KIT, joins the ROMY project as a PhD student. He will work on any aspect of 
+ROMY data processing, hardware adaptation, data analysis and interpretation of ring lasers.  
+
+### <small>March  2020</small>  Bavarian television (BR) shoots in Fürstenfeldbruck and Wettzell
+
+The science editors of the Bavarian Television decided to shoot a short movie on the ROMY project. The programm will be transmitted Saturday March 28 at 19:00 (Gut zu wissen). 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/br1.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/br2.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/br3.jpg">
+      </a>
+    </div>
+</div>
+
+### <small>March 1 2020</small> ROMY ERC-Advanced project officially ends
+
+The ROMY project ends after 5+1 (one year extension) years! On the same day one further ROMY-followup project starts! The GIOTTO project, funded by the German 
+Ministry of Research in  a call dedicated  to early warning, will focus on 6C observations using fibre-optic technology in structural engineering. The goal is to 
+develop a novel structural health monitoring concept using 6C observations. 
+
+### <small>January 2020</small> Special Issue on Rotational Seismology in "Sensors"
+
+Following the 6th IWGoRS Meeting in Taiwan a special issue on rotational seismology (the 3rd one) will be published in the journal "Sensors". The deadline for 
+submissions is 31st July 2020. More info on: [IWGoRS](http://www.rotational-seismology.org)
+
+### <small>January  2020</small> iXblue Users Meeting in the Landing 42 Venue in London
+
+iXblue - the company that produces the rotation sensor blueSeis-3A organized a users meeting for their products at the spectactular Landing 42 Venue in 
+the downtown London Area. Heiner Igel presented laboratory and field data and applications with the blueSeis-3A sensor. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/london1.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/london2.jpg">
+      </a>
+    </div>
+</div>
+
+ 
+### <small>December  2019</small> Special Session at the 100th AGU Fall Meeting in San Francisco 
+
+An exciting session was co-organized by ROMY scientists around the topic of strain and rotation measurements. The 100th AGU Meeting at a substantial
+fringe programme celebrating its achievements. iXblue once more had a sizeable stand in the exhbition area promoting blueSeis-3A and its other products. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/agu19_1.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/agu19_2.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/agu19_3.jpg">
+      </a>
+    </div>
+</div>
+
+
+### <small>November  2019</small> Experiments successful!
+
+The seismic experiment with an unprecedent number of rotation sensor components (>40) was successful! After a few days of installation of buried DAS cables, geophones, 
+broadband sensors, and a variety of rotation sensors (blueSeis-3A, rotaphone, fibre-optic gyros from Polish scientists and Steckeisen, mems-based sensors) so-called huddle tests were carried 
+out to  investigate the instrumental noise. This was followed by dozens of vibrator truck measurements as well as several small explosions in shallow boreholes. 
+A tremendous amount of data was collected and is now being analyzed. First results are expected to be reported at the EGU2020 Meeting in Vienna.
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/nov4.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/nov3.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/nov2.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/nov1.jpg">
+      </a>
+    </div>
+</div>
+
 ### <small>November  2019</small> Tension mounting in preparation for seismic experiment
 
 Felix Bernauer is organizing a world-wide unique experiment to be staged at our Observatory in Fürstenfeldbruck. 
-For the first time we will have more than 10 portable rotation sensors, geophones, broadband seismometers and a DAS cable measuring strain. 
+For the first time we will have dozens of portable rotation sensors, geophones, broadband seismometers and a DAS cable measuring strain. 
 We will use a truck vibrator source and small explosions to generate waves. The goal is to understand the benefit of additional gradient based measurements 
 (rotation, strain) for near surface exploration. 
 
@@ -17,7 +200,7 @@ We will use a truck vibrator source and small explosions to generate waves. The 
     </div>
 </div>
 
-### <small>November  2019</small> Work on ring laser continues
+### <small>October/November  2019</small> Work on ring laser continues
 
 While the ring laser is lasing in a very stable way (which means the optical path is established), the Sagnac frequency is sometimes lost indicating problems 
 with beam power and mode hops. In preparation for the November seismic experiment we work on stabilizing the Sagnac frequency. 
@@ -46,6 +229,15 @@ with beam power and mode hops. In preparation for the November seismic experimen
     </div>
 </div>
 
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/ringlaser4.jpg">
+      </a>
+    </div>
+</div>
+
+
 ### <small>October  2019</small> Toshiro Tanimoto (UC Santa Barbara) visits LMU for three weeks
 
 Toshiro Tanimoto visits LMU to collaborate on ring laser observations in particular looking at ocean generated noise. 
@@ -54,6 +246,14 @@ Toshiro Tanimoto visits LMU to collaborate on ring laser observations in particu
     <div class="col-lg-3">
       <a class="thumbnail" href="#" >
          <img style="max-height: 400px; max-width: 400px" src="../images/news/toshiro.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/romynoise.png">
       </a>
     </div>
 </div>
@@ -88,6 +288,17 @@ very interesting excursion to the fault traces of the 1999 Chi-Chi earthquake. M
     </div>
 </div>
 
+### <small>September  2019</small> Erhard Wielandt visits the Observatory
+
+One of the founding fathers of modern broadband seismology Prof. Dr. Erhardt Wielandt visited the Observatory to consult on seismometer calibration. He also visited the ROMY ring laser. 
+
+<div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/wielandt.jpg">
+      </a>
+    </div>
+</div>
 
 
 ### <small>September  2019</small> Workshop and Volcano Excursion, Kamchatka

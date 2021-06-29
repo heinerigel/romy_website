@@ -2,7 +2,18 @@ Title: Events
 Slug: events
 Authors: Heiner Igel
 
-#### <small>March 2020</small> Meeting of the German Geophysical Society, Munich
+#### <small>March  2022</small> 11th Skience Winter School, Sudelfeld
+The 11th Skience Winter School will be held in Sudelfeld March 13-18, 2022 focusing 
+on advanced seismic data processing using Python/ObsPy. More info at [Skience](http://www.skience.de).
+<br></br>
+
+#### <small>March 2022</small> Meeting of the German Geophysical Society, Munich 
+Munich Geophysics is organizing the DGG Meeting March 7-19, 2022. One of the featured topics
+ is the role of observatories and new instrumentation. 
+<br></br>
+
+
+#### <small>March 2020</small> Meeting of the German Geophysical Society, Munich (cancelled due to Covid)
 Munich Geophysics is organizing the DGG Meeting March 22-26, 2020. One of the featured topics
  is the role of observatories and new instrumentation. 
 <br></br>

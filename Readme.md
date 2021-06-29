@@ -141,5 +141,4 @@ $ ssh venus
 If that works you are good to go using `fab publish`.
 
 Data at
- /import/freenas-m-www/projects/ROMY
-
+/import/freenas-m-www/projects/ROMY
