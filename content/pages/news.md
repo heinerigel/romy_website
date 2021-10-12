@@ -2,6 +2,44 @@ title: News
 Slug: news
 Authors: Heiner Igel
 
+
+### <small>October 2021</small> Further experiments at the BAM Test bridge "BLEIB"
+
+An exciting active and passive experiment is currently happening over three weeks at the concrete test bridge 
+at the test facility of the "Bundesanstalt für Materialprüfung" (BAM) 30km south of Berlin (see also below). 
+This time the bridge is undergoing various pre-stress levels and we attempt to detect the associated 
+velocity changes with standard seismometers, rotation sensors, DAS cables, and ultrasonic sensors. 
+
+ <div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 400px; max-width: 400px" src="../images/news/bleib.jpg">
+      </a>
+    </div>
+</div>
+
+
+
+### <small>September 2021</small> Seismic Array around ROMY reinstalled 
+
+Five seismic stations form an outer array and surround ROMY, located at the site of the 
+geophysical observatory in Fürstenfeldbruck, in an approximately 5 km radius. This array is 
+used to compute array derived rotations as a comparison to the direct, high sensitivity rotational
+ motion observations of the ring laser. This seismic array was first setup in 2015 and operated successfully 
+ until 2021. Now, the previous mix of sensors has been exchanged by a set of five STS2 sensors, kindly provided 
+ by the Institute of Earth Sciences, Academia Sinica in Taiwan. This extends the operation of the array up to 2025. 
+ Some of the sensors are buried, others located in old barns or water reservoirs. Each STS2 is positioned 
+ on top of a 4 cm thick gabbro plate and shielded against ambient temperature and pressure variations.  
+ 
+ <div class="container">
+    <div class="col-lg-3">
+      <a class="thumbnail" href="#" >
+         <img style="max-height: 600px; max-width: 600px" src="../images/news/sts2.png">
+      </a>
+    </div>
+</div>
+
+
 ### <small>June 2021</small> Andreas Brotzer wins PAROS fellowship of the American Geophysical Union 
 
 Andreas Brotzer, PhD student working on the ROMY ring laser has obtained a 5000$ scholarshop 
